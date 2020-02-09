@@ -1,0 +1,18 @@
+# Ignore annoying system files
+**/.DS_Store
+**/__pycache__
+**/.ipynb_checkpoints
+**/.floyddata
+
+# Ignore filetypes
+**/*.jpg
+**/*.JPG
+**/*.png
+**/*.csv
+**/*.xml
+**/*.json
+**/*.h5
+**/*.pth
+**/*.pkl
+**/*.gz
+**/*.zip

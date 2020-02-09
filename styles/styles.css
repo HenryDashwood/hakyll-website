@@ -1,0 +1,25 @@
+/* body * {
+    color: hsla(210, 100%, 100%, 0.88);
+    background: hsla(210, 100%, 50%, 0.88);
+    outline: 0.25rem solid hsla(210, 100%, 100%, 0.50);
+} */
+
+article {
+    display: grid;
+    grid-template-columns: 1fr 0.5in [start] 1.25in 5in 1.25in [end] 0.5in 1fr;
+    height: 100vh;
+    padding: 0.5in 0;
+}
+
+article * {
+    grid-column: start / end;
+}
+
+@media (max-width: 8.5in) {
+    article {
+        grid-template-columns: 1fr 5% [start] 15% 60% 15% [end] 5% 1fr;
+    }
+}
+
+@media (max-width: 8.5in) {:root {font-size: 18px;}}
+@media (max-width: 5in) {:root {font-size: 16px;}}

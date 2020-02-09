@@ -1,0 +1,8 @@
+h2, p {margin-bottom: 2.4rem;}
+
+h1            {font: 400 2.0rem/1.2 "Roboto"; color: hsla(000, 0%, 30%)}
+h2            {font: 400 1.5rem/1.2 "Roboto"; color: hsla(000, 0%, 30%)}
+h3            {font: 400 1.0rem/1.2 "Roboto"; color: hsla(000, 0%, 30%)}
+p             {font: 400 1.0rem/1.5 "Roboto"; color: hsla(000, 0%, 30%)}
+time          {font: 400 1.0rem/1.2 "Roboto"; color: hsla(000, 0%, 30%)}
+figcaption p  {font: 400 1.0rem/1.2 "Roboto"; color: hsla(000, 0%, 70%)}
