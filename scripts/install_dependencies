@@ -1,4 +1,4 @@
 #!/bin/bash
-apt update && apt upgrade 
-apt install -y httpd
+apt --yes --force-yes update && apt --yes --force-yes upgrade 
+apt --yes --force-yes install -y httpd
 
