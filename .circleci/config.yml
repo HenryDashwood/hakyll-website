@@ -2,7 +2,7 @@ version: 2.1
 jobs:
   build:
     docker:
-      - image: futtetennista/hakyll:latest
+      - image: henrydashwood/hakyll
     steps:
       - checkout
       - restore_cache:
