@@ -31,4 +31,7 @@ jobs:
           command: stack build
       - run:
           name: Generate Static Site
-          command: stack exec site build
+          command: stack exec site rebuild
+      - store_artifacts:
+          path: _site
+          destination: built_site
