@@ -1,6 +1,9 @@
 version: 2.1
 jobs:
   build:
+    environment:
+      LC_ALL: en_GB.UTF8
+      LANG: en_GB.UTF8
     docker:
       - image: henrydashwood/hakyll
     steps:
@@ -23,9 +26,6 @@ jobs:
           paths:
             - ~/.stack
             - ./.stack-work
-      - run:
-          name: Set language
-          command: export LANG=en_GB.UTF8
       - run:
           name: Build Site App
           command: stack build
