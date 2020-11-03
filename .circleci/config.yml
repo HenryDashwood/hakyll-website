@@ -2,8 +2,8 @@ version: 2.1
 jobs:
   build:
     environment:
-      LC_ALL: en_GB.UTF8
-      LANG: en_GB.UTF8
+      LC_ALL: C.UTF-8
+      LANG: C.UTF-8
     docker:
       - image: henrydashwood/hakyll
     steps:
