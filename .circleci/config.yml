@@ -24,6 +24,9 @@ jobs:
             - ~/.stack
             - ./.stack-work
       - run:
+          name: Set language
+          command: export LANG=en_GB.UTF8
+      - run:
           name: Build Site App
           command: stack build
       - run:
