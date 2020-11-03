@@ -25,7 +25,7 @@ jobs:
             - ./.stack-work
       - run:
           name: Build Site App
-          command: stack build --pedantic
+          command: stack build
       - run:
           name: Generate Static Site
           command: stack exec site build
