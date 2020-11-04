@@ -1,4 +1,6 @@
 version: 2.1
+orbs:
+  aws-code-deploy: circleci/aws-code-deploy@1.0.1
 jobs:
   build:
     environment:
@@ -35,3 +37,9 @@ jobs:
       - store_artifacts:
           path: _site
           destination: built_site
+      - aws-code-deploy/deploy:
+          application-name: HenryDashwoodWebsite
+          bundle-bucket: henry-dashwood-lightsail-bucket
+          bundle-key: myS3BucketKey
+          deployment-group: HenryDashwoodWebsiteDeploymentGroup
+          service-role-arn: myDeploymentGroupRoleARN
