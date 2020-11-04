@@ -45,5 +45,5 @@ workflows:
           bundle-bucket: henry-dashwood-lightsail-bucket
           bundle-key: myS3BucketKey
           deployment-group: HenryDashwoodWebsiteDeploymentGroup
-          service-role-arn: myDeploymentGroupRoleARN
+          service-role-arn: arn:aws:iam::179840394599:role/CodeDeployServiceRole
           get-deployment-group-arguments: --file-exists-behavior OVERWRITE
