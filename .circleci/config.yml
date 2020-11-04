@@ -46,6 +46,3 @@ workflows:
           bundle-key: HenryDashwoodWebsite
           deployment-group: HenryDashwoodWebsiteDeploymentGroup
           service-role-arn: arn:aws:iam::179840394599:role/CodeDeployServiceRole
-          filters:
-            branches:
-              only: master
