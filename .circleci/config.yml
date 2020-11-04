@@ -37,6 +37,9 @@ jobs:
       - store_artifacts:
           path: _site
           destination: built_site
+workflows:
+  deploy_application:
+    jobs:
       - aws-code-deploy/deploy:
           application-name: HenryDashwoodWebsite
           bundle-bucket: henry-dashwood-lightsail-bucket
