@@ -40,12 +40,7 @@ jobs:
 workflows:
   deploy_application:
     jobs:
-      - aws-code-deploy/deploy:
+      - aws-code-deploy/push-bundle:
           application-name: HenryDashwoodWebsite
           bundle-bucket: henry-dashwood-lightsail-bucket
           bundle-key: myS3BucketKey
-          deployment-group: HenryDashwoodWebsiteDeploymentGroup
-          service-role-arn: arn:aws:iam::179840394599:role/CodeDeployServiceRole
-          get-deployment-group-arguments:
-            --deployment-group-name HenryDashwoodWebsiteDeploymentGroup
-            --file-exists-behavior OVERWRITE
