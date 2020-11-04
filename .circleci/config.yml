@@ -46,3 +46,4 @@ workflows:
           bundle-key: myS3BucketKey
           deployment-group: HenryDashwoodWebsiteDeploymentGroup
           service-role-arn: myDeploymentGroupRoleARN
+          arguments: --file-exists-behavior OVERWRITE
