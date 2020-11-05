@@ -39,9 +39,12 @@ jobs:
       - run:
           name: Generate Static Site
           command: stack exec site rebuild
-      - store_artifacts:
-          path: _site
-          destination: built_site
+      - run:
+          name: Copy appspec.yml into /_site
+          command: cp ~/project/appspec.yml ~/project/_site/
+      - run:
+          name: Copy scripts folder into /_site
+          command: cp -r ~/project/scripts ~/project/_site/
 workflows:
   deploy_application:
     jobs:
