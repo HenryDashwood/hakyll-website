@@ -1,6 +1,6 @@
 # My website
 
-My personal website [henrydashwood.com](henrydashwood.com)
+My personal website [henrydashwood.com](http://www.henrydashwood.com)
 
 ### Running Locally
 
@@ -20,3 +20,6 @@ Then you can view it at `http://localhost:8000/`
 - Books in correct order
 - Importance of zero
 - How I built the site
+
+#### Technical
+- https
