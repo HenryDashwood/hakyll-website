@@ -1,11 +1,22 @@
-# henrydashwood.com
+# My website
 
-My personal website
+My personal website [henrydashwood.com](henrydashwood.com)
 
 ### Running Locally
 
-stack etc
+```shell
+stack build
+stack exec site build
+stack exec site watch
+```
+
+Then you can view it at `http://localhost:8000/`
 
 ### TODO
 
-- How to get deployment group name?
+#### Posts
+
+- More on personal setup
+- Books in correct order
+- Importance of zero
+- How I built the site
