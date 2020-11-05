@@ -41,10 +41,10 @@ jobs:
           command: stack exec site rebuild
       - run:
           name: Copy appspec.yml into /_site
-          command: cp /home/circleci/project/_site/appspec.yml /home/circleci/project/_site/
+          command: cp /home/circleci/project/appspec.yml /home/circleci/project/_site/
       - run:
           name: Copy scripts folder into /_site
-          command: cp -r /home/circleci/project/_site/scripts /home/circleci/project/_site/
+          command: cp -r /home/circleci/project/scripts /home/circleci/project/_site/
 workflows:
   deploy_application:
     jobs:
