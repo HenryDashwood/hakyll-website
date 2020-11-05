@@ -41,10 +41,10 @@ jobs:
           command: stack exec site rebuild
       - run:
           name: Copy appspec.yml into /_site
-          command: cp ~/project/appspec.yml ~/project/_site/
+          command: cp /home/circleci/project/_site/appspec.yml /home/circleci/project/_site/
       - run:
           name: Copy scripts folder into /_site
-          command: cp -r ~/project/scripts ~/project/_site/
+          command: cp -r /home/circleci/project/_site/scripts /home/circleci/project/_site/
 workflows:
   deploy_application:
     jobs:
@@ -55,6 +55,6 @@ workflows:
           application-name: HenryDashwoodWebsite
           bundle-bucket: henry-dashwood-lightsail-bucket
           bundle-key: HenryDashwoodWebsite
-          bundle-source: ~/project/_site
+          bundle-source: /home/circleci/project/_site
           deployment-group: HenryDashwoodWebsiteDeploymentGroup
           service-role-arn: arn:aws:iam::179840394599:role/CodeDeployServiceRole
