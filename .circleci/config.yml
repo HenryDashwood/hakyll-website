@@ -48,6 +48,11 @@ jobs:
       - run:
           name: Copy scripts folder into /_site
           command: cp -r scripts _site/
+      - persist_to_workspace:
+          root: .
+          paths:
+            - _site
+
 workflows:
   deploy_application:
     jobs:
@@ -55,6 +60,9 @@ workflows:
       - aws-code-deploy/deploy:
           requires:
             - build
+          pre-steps:
+            - attach_workspace:
+                at: _site
           application-name: HenryDashwoodWebsite
           bundle-bucket: henry-dashwood-lightsail-bucket
           bundle-key: HenryDashwoodWebsite
