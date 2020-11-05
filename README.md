@@ -8,4 +8,4 @@ stack etc
 
 ### TODO
 
-- Push hakyll dockerimage to hub, use in circle ci build
+- How to get deployment group name?

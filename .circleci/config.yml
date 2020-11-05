@@ -1,13 +1,18 @@
 version: 2.1
+
+executors:
+  default:
+    docker:
+      - image: henrydashwood/hakyll
+
 orbs:
   aws-code-deploy: circleci/aws-code-deploy@1.0.1
 jobs:
   build:
+    executor: default
     environment:
       LC_ALL: C.UTF-8
       LANG: C.UTF-8
-    docker:
-      - image: henrydashwood/hakyll
     steps:
       - checkout
       - restore_cache:
