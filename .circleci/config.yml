@@ -44,10 +44,10 @@ jobs:
           command: pwd
       - run:
           name: Copy appspec.yml into /_site
-          command: cp project/appspec.yml project/_site/
+          command: cp appspec.yml _site/
       - run:
           name: Copy scripts folder into /_site
-          command: cp -r project/scripts project/_site/
+          command: cp -r scripts _site/
 workflows:
   deploy_application:
     jobs:
@@ -58,6 +58,6 @@ workflows:
           application-name: HenryDashwoodWebsite
           bundle-bucket: henry-dashwood-lightsail-bucket
           bundle-key: HenryDashwoodWebsite
-          bundle-source: project/_site
+          bundle-source: _site
           deployment-group: HenryDashwoodWebsiteDeploymentGroup
           service-role-arn: arn:aws:iam::179840394599:role/CodeDeployServiceRole
