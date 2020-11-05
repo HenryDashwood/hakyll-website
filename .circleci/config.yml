@@ -62,7 +62,7 @@ workflows:
             - build
           pre-steps:
             - attach_workspace:
-                at: _site
+                at: /tmp/workspace
           application-name: HenryDashwoodWebsite
           bundle-bucket: henry-dashwood-lightsail-bucket
           bundle-key: HenryDashwoodWebsite
