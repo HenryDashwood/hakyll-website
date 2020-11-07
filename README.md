@@ -17,9 +17,9 @@ Then you can view it at `http://localhost:8000/`
 #### Posts
 
 - More on personal setup
-- Books in correct order
 - Importance of zero
 - How I built the site
 
 #### Technical
+
 - https
