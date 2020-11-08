@@ -7,7 +7,7 @@ import           Hakyll
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyll $ do
-    match "styles/*" $ do
+    match "css/*" $ do
         route   idRoute
         compile compressCssCompiler
 

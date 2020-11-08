@@ -4,10 +4,40 @@
     <meta charset="UTF-8" />
     <title>homepage</title>
     <meta name="viewport" content="width=device-width initial-scale=1" />
-    <link rel="stylesheet" href="/styles/styles.css" />
+    <link rel="stylesheet" href="/css/styles.css" />
   </head>
 
   <body>
+    <script>
+      const wideCtx = (elem) => {
+        const nav = elem.querySelector(".nav\-layout");
+        const oldClassList = nav.classList;
+        nav.classList.remove(...oldClassList);
+        const newClassList = ["nav-layout", "stack"];
+        nav.classList.add(...newClassList);
+      };
+
+      const narrowCtx = (elem) => {
+        const nav = elem.querySelector(".nav\-layout");
+        const oldClassList = nav.classList;
+        nav.classList.remove(...oldClassList);
+        const newClassList = ["nav-layout", "cluster"];
+        nav.classList.add(...newClassList);
+      };
+
+      const percentwidth = () => {
+        const elem = document.querySelector(".nav");
+        const pa = elem.offsetParent || elem;
+
+        wideCtx(elem);
+        if (elem.offsetWidth / pa.offsetWidth >= 0.75) {
+          narrowCtx(elem);
+        }
+      };
+
+      window.addEventListener("load", percentwidth);
+      window.addEventListener("resize", percentwidth);
+    </script>
     <div class="with-sidebar">
       <div>$partial("templates/navigation.html")$ $body$</div>
     </div>
