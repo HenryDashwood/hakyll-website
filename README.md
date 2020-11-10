@@ -22,4 +22,5 @@ Then you can view it at `http://localhost:8000/`
 
 #### Technical
 
+- icons
 - https

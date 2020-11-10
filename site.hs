@@ -7,23 +7,52 @@ import           Hakyll
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyll $ do
+    match "images/*" $ do
+        route   idRoute
+        compile copyFileCompiler
+
     match "css/*" $ do
         route   idRoute
         compile compressCssCompiler
 
-    match "content/aboutme/*" $ do
-            route   $ setExtension "html"
-            compile $ pandocCompiler
-                >>= loadAndApplyTemplate "templates/post.html" defaultContext
-                >>= loadAndApplyTemplate "templates/default.html" defaultContext
+    match "aboutme/*" $ do
+        route   $ setExtension "html"
+        compile $ pandocCompiler
+            >>= loadAndApplyTemplate "templates/post.html" defaultContext
+            >>= loadAndApplyTemplate "templates/default.html" defaultContext
+            >>= relativizeUrls
+
+    match "posts/*" $ do
+        route $ setExtension "html"
+        compile $ do
+            pandocCompiler
+                >>= loadAndApplyTemplate "templates/post.html"    postCtx
+                >>= loadAndApplyTemplate "templates/default.html" postCtx
                 >>= relativizeUrls
+
+    create ["archive.html"] $ do
+        route idRoute
+        compile $ do
+            posts <- recentFirst =<< loadAll "posts/*"
+
+            let archiveCtx =
+                    listField "posts" postCtx (return posts) `mappend`
+                    constField "title" "Archives"            `mappend`
+                    defaultContext
+
+            makeItem ""
+                >>= loadAndApplyTemplate "templates/archive.html" archiveCtx
+                >>= loadAndApplyTemplate "templates/default.html" archiveCtx
+                >>= relativizeUrls
+
 
     match "index.html" $ do
         route idRoute
         compile $ do
-            blogs <- recentFirst =<< loadAll "content/blogs/*"
+            posts <- recentFirst =<< loadAll "posts/*"
+
             let indexCtx =
-                    listField "blogs" defaultContext (return blogs) `mappend`
+                    listField "posts" postCtx (return posts) `mappend`
                     defaultContext
 
             getResourceBody
@@ -35,3 +64,7 @@ main = hakyll $ do
 
 
 --------------------------------------------------------------------------------
+postCtx :: Context String
+postCtx =
+    dateField "date" "%B %e, %Y" `mappend`
+    defaultContext
