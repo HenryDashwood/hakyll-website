@@ -4,6 +4,8 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2020
 
+A Sicilian Romance - Ann Radcliffe
+
 Fahrenheit 451 - Ray Bradbury
 
 The Last Ringbearer - Kirill Eskov
