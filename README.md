@@ -16,11 +16,12 @@ Then you can view it at `http://localhost:8000/`
 
 #### Posts
 
-- More on personal setup
-- Importance of zero
 - How I built the site
 
 #### Technical
 
+- RSS
 - icons
 - https
+- links should popup on hover over superscript
+- Preview
