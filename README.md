@@ -22,6 +22,5 @@ Then you can view it at `http://localhost:8000/`
 
 - RSS
 - icons
-- https
 - links should popup on hover over superscript
 - Preview
