@@ -2,7 +2,7 @@
 sudo apt update -y
 sudo apt install -y apache2 
 
-if [ -f /var/www/html/index.html ]
+if [ -f /var/www/henrydashwood.com/index.html ]
 then
-rm -f /var/www/html/index.html
+rm -f /var/www/henrydashwood.com/index.html
 fi
