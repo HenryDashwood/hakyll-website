@@ -22,7 +22,7 @@ Another blog that could be grouped under science but feels broader. Gwern Branwe
 
 ### [Dominic Cummings Blog](https://dominiccummings.com/)
 
-Oh yeah this gets a mention. It's actually full of interesting stuff and exposed me to all sorts of new ideas. Reading this in 2015, including Dom's long essay _Some Thoughts on Education and Political Priorities_, prompted me to learn to program, get into machine learning, and not chase the PPE dream. So I really have to thank Dom for my career. Whether Dom's worldview matches reality is rather beside the point for me.
+Oh yeah this gets a mention. It's actually full of interesting stuff and exposed me to all sorts of new ideas. That is why I have not listed it under Politics. Reading this in 2015, including Dom's long essay _Some Thoughts on Education and Political Priorities_, prompted me to learn to program, get into machine learning, and not chase the PPE dream. So I really have to thank Dom for my career.
 
 ## History and the Arts
 
@@ -99,6 +99,10 @@ In the 20th century, the free world had to meet the challenge of communism. With
 ### [The Scholar's Stage](https://scholars-stage.blogspot.com/)
 
 Tanner Greer writes about lots of things and I could have placed him in the History and Arts section. However, I will place him in politics as his area of expertise is China and Taiwan.
+
+### [Thomas Forth](https://www.tomforth.co.uk/)
+
+Tom's writing about the British state is essential reading in my opinion. It has had a huge influence on how I see politics and what I think is necessary to make ourselves richer.
 
 ### [Works in Progress](https://worksinprogress.co/)
 
