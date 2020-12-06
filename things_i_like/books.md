@@ -4,6 +4,8 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2020
 
+Half of a Yellow Sun - Chimamanda Ngozi Adichie
+
 The Children of Hurin - J.R.R. Tolkien
 
 The Romance of the Forest - Ann Radcliffe
