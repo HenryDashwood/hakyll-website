@@ -28,7 +28,9 @@ _There are not enough courses about deployment and devops, especially in machine
 
 [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 
-[Generative Adversarial Networks](https://www.udemy.com/course/introduction-to-generative-adversarial-networks-with-pytorch/)
+[Introduction to Generative Adversarial Networks with PyTorch](https://www.udemy.com/course/introduction-to-generative-adversarial-networks-with-pytorch/)
+
+_Udemy has become an amazing resource. Often I type in some particularly obscure sounding technology and get back a whole page of courses on the subject. They almost always have a sale on so you can pick them up for just a few quid. Mustafa Qamaruddin's course on GANs combines good videos, links to further reading, and clear implementaions._
 
 ### Natural Language Processing
 

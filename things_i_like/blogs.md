@@ -20,9 +20,9 @@ José Luis Ricón Fernández de la Puente has written some very impressive stuff
 
 Another blog that could be grouped under science but feels broader. Gwern Branwen writes about so much that your best bet is to just go to his homepage and browse around.
 
-### [The Economist]("https://www.economist.com)
+### [The Economist](https://www.economist.com)
 
-_"To err is human. To er, um, ah is unacceptable"_
+"To err is human. To er, um, ah is unacceptable"
 
 ### [Dominic Cummings Blog](https://dominiccummings.com/)
 
