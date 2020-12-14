@@ -20,6 +20,10 @@ José Luis Ricón Fernández de la Puente has written some very impressive stuff
 
 Another blog that could be grouped under science but feels broader. Gwern Branwen writes about so much that your best bet is to just go to his homepage and browse around.
 
+### [The Economist]("https://www.economist.com)
+
+_"To err is human. To er, um, ah is unacceptable"_
+
 ### [Dominic Cummings Blog](https://dominiccummings.com/)
 
 Oh yeah this gets a mention. It's actually full of interesting stuff and exposed me to all sorts of new ideas. That is why I have not listed it under Politics. Reading this in 2015, including Dom's long essay _Some Thoughts on Education and Political Priorities_, prompted me to learn to program, get into machine learning, and not chase the PPE dream. So I really have to thank Dom for my career.
@@ -44,7 +48,7 @@ Anton Howes's newsletter on the industrial revolution is a terrific read from so
 
 ### [London Review of Books](https://www.lrb.co.uk/)
 
-The world's greatest back catalogue. I tend to skip the pieces that cover current events since they tend not to age well. But some contributors like Adam Tooze always get a read.
+The world's greatest back catalogue. I tend to skip the pieces that cover current events since they do not age well. But some contributors like Adam Tooze always get a read.
 
 ### [New York Review of Books](https://www.nybooks.com/)
 

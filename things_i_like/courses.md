@@ -28,6 +28,8 @@ _There are not enough courses about deployment and devops, especially in machine
 
 [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 
+[Generative Adversarial Networks](https://www.udemy.com/course/introduction-to-generative-adversarial-networks-with-pytorch/)
+
 ### Natural Language Processing
 
 [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
