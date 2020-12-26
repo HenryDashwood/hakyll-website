@@ -4,6 +4,16 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2020
 
+Linked - Albert-Laszio Barabasi
+
+Lord of the Flies - William Golding
+
+Beren and Luthien - J.R.R. Tolkien
+
+AI Powered Search - Trey Grainger
+
+Goodbye, Mr. Chips - James Hilton
+
 Memoirs of a Cavalier - Daniel Defoe
 
 Half of a Yellow Sun - Chimamanda Ngozi Adichie
@@ -196,7 +206,7 @@ As You Like It - William Shakespeare
 
 Ludvig Von Mises - Eamon Butler
 
-The Law - Bastiat
+The Law - Frédéric Bastiat
 
 Adam Smith - Eamon Butler
 
@@ -562,7 +572,7 @@ The Decameron - Giovanni Boccaccio
 
 Dante's Divine Comedy - Ronald B. Herzman and William R. Cook
 
-The Divine Comedy - Dante Alighieri
+The Divine Comedy - Dante Alighieri (translated by Carlyle Okey-Wicksteed)
 
 The Box - Marc Levinson
 
@@ -572,7 +582,7 @@ Zero to One - Peter Thiel and Blake Masters
 
 Bede - Ecclesiastical History of the English People
 
-Beowulf
+Beowulf - Anon (translated by Benedict Flynn)
 
 Antigone - Sophocles
 
@@ -586,7 +596,7 @@ The Strange Case of Dr. Jekyll and Mr. Hyde - Robert Louis Stevenson
 
 The Aeneid of Virgil - Elizabeth Vandiver
 
-The Aeneid - Virgil
+The Aeneid - Virgil (translated by Cecil Day Lewis)
 
 The Peloponnesian War - Thucydides
 
@@ -598,7 +608,7 @@ The Odyssey of Homer - Elizabeth Vandiver
 
 Superforecasting: The Art and Science of Prediction - Philip Tetlock and Dan Gardner
 
-The Odyssey - Homer
+The Odyssey - Homer (translated by Ian Johnston)
 
 An Economist Gets Lunch: New Rules for Everyday Foodies - Tyler Cowen
 
@@ -632,7 +642,7 @@ The Iliad of Homer - Elizabeth Vandiver
 
 The Second Machine Age - Erik Brynjolfsson and Andrew McAfee
 
-The Iliad - Homer
+The Iliad - Homer (translated by Ian Johnston)
 
 Thinking, Fast and Slow - Daniel Kahneman
 
@@ -720,7 +730,7 @@ The Great Turning Points in British History - Michael Wood
 
 What Does it all Mean? - Thomas Nagal
 
-The Prince - Niccolò Machiavelli
+The Prince - Niccolò Machiavelli (translated by Peter Bondanella)
 
 Coriolanus - William Shakespeare
 
