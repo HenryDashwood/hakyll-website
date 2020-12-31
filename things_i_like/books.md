@@ -4,6 +4,10 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2020
 
+The Iliad - Homer (translated by E.V. Rieu)
+
+The Fall of Gondolin - J.R.R. Tolkien
+
 Linked - Albert-Laszio Barabasi
 
 Lord of the Flies - William Golding
