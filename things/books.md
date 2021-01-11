@@ -4,7 +4,7 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
-Life of Johnson - James Boswell
+The Life of Samuel Johnson - James Boswell
 
 God's Philosophers - James Hannam
 
