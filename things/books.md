@@ -2,6 +2,14 @@
 
 This list includes books, plays, and book length essays or papers that I have read, in roughly reverse chronological order. My memory gets fuzzy the further back we go.
 
+## 2021
+
+Life of Johnson - James Boswell
+
+God's Philosophers - James Hannam
+
+A Farewell to Arms - Ernest Hemingway
+
 ## 2020
 
 The Iliad - Homer (translated by E.V. Rieu)
