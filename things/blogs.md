@@ -28,6 +28,10 @@ Another blog that could be grouped under science but feels broader. Gwern Branwe
 
 Oh yeah this gets a mention. It's actually full of interesting stuff and exposed me to all sorts of new ideas. That is why I have not listed it under Politics. Reading this in 2015, including Dom's long essay _Some Thoughts on Education and Political Priorities_, prompted me to learn to program, get into machine learning, and not chase the PPE dream. So I really have to thank Dom for my career.
 
+### [The Diff](https://diff.substack.com)
+
+Byrne Hobart's analysis of whatever takes interest. Generally has a finance focus.
+
 ## History and the Arts
 
 ### [A Clerk of Oxford](https://aclerkofoxford.blogspot.com/)

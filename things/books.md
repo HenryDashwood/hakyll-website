@@ -4,9 +4,13 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+Greek Tragedy - Elizabeth Vandiver
+
+Dragon Lords: The History and Legends of Viking England - Eleanor Parker
+
 The Life of Samuel Johnson - James Boswell
 
-God's Philosophers - James Hannam
+God's Philosophers: How the Medieval World Laid the Foundations of Modern Science - James Hannam
 
 A Farewell to Arms - Ernest Hemingway
 
@@ -596,11 +600,11 @@ Bede - Ecclesiastical History of the English People
 
 Beowulf - Anon (translated by Benedict Flynn)
 
-Antigone - Sophocles
+Antigone - Sophocles (translated by Ian Johnston)
 
-Oedipus at Colonus - Sophocles
+Oedipus at Colonus - Sophocles (translated by Ian Johnston)
 
-Oedipus Rex - Sophocles
+Oedipus Rex - Sophocles (translated by Ian Johnston)
 
 Kim - Rudyard Kipling
 
