@@ -4,6 +4,20 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+Antigone - Sophocles
+
+Ajax - Sophocles
+
+Prometheus Bound - Aeschylus (attr)
+
+The Eumenides (Oresteia) - Aeschylus (translated by Tony Harrison)
+
+The Libation Bearers (Oresteia) - Aeschylus (translated by Tony Harrison)
+
+Agamemnon (Oresteia) - Aeschylus (translated by Tony Harrison)
+
+The World We Have Lost - Peter Laslett
+
 Greek Tragedy - Elizabeth Vandiver
 
 Dragon Lords: The History and Legends of Viking England - Eleanor Parker
