@@ -4,7 +4,33 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
-Antigone - Sophocles
+Greater Hippias (Socratic Dialogues) - Plato
+
+Lesser Hippias (Socratic Dialogues) - Plato
+
+Euthydemus (Socratic Dialogues) - Plato
+
+Meno (Socratic Dialogues) - Plato
+
+Protagoras (Socratic Dialogues) - Plato
+
+Gorgias (Socratic Dialogues) - Plato
+
+Ion (Socratic Dialogues) - Plato
+
+Menexenus (Socratic Dialogues) - Plato
+
+Lysis (Socratic Dialogues) - Plato
+
+Laches (Socratic Dialogues) - Plato
+
+Charmides (Socratic Dialogues) - Plato
+
+Crito (Socratic Dialogues) - Plato
+
+The Apology (Socratic Dialogues) - Plato
+
+Antigone - Sophocles (translated by Don Taylor)
 
 Ajax - Sophocles
 
