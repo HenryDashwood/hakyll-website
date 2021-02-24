@@ -4,6 +4,12 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+Phaedo (Socratic Dialogues) - Plato
+
+Theaetetus (Socratic Dialogues) - Plato
+
+Symposium (Socratic Dialogues) - Plato
+
 Greater Hippias (Socratic Dialogues) - Plato
 
 Lesser Hippias (Socratic Dialogues) - Plato
