@@ -4,6 +4,16 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+Beowulf - J.R.R. Tolkien
+
+Plato, Socrates, and the Dialogues - Michael Sugrue
+
+Parmenides (Socratic Dialogues) - Plato
+
+Cratylus (Socratic Dialogues) - Plato
+
+Phaedrus (Socratic Dialogues) - Plato
+
 Phaedo (Socratic Dialogues) - Plato
 
 Theaetetus (Socratic Dialogues) - Plato
