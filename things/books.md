@@ -4,7 +4,15 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
-Beowulf - J.R.R. Tolkien
+The Monsters and the Critics and Other Essays - J.R.R. Tolkien
+
+Hillbilly Elegy - J.D. Vance
+
+Beowulf - (translated by Seamus Heaney)
+
+The Country and the City - Raymond Williams
+
+Beowulf - (translated by J.R.R. Tolkien)
 
 Plato, Socrates, and the Dialogues - Michael Sugrue
 
