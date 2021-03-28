@@ -4,6 +4,8 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+Beowulf - (translated by Michael Alexander)
+
 The Monsters and the Critics and Other Essays - J.R.R. Tolkien
 
 Hillbilly Elegy - J.D. Vance
