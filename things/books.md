@@ -4,6 +4,10 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+Chaucer: A European Life - Marion Turner
+
+Fifty-Fifty - Steve Cavanagh
+
 Beowulf - (translated by Michael Alexander)
 
 The Monsters and the Critics and Other Essays - J.R.R. Tolkien
