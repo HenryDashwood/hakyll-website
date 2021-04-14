@@ -4,6 +4,10 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+A Heart so White - Javier Marías
+
+The Eclogues - Virgil
+
 Chaucer: A European Life - Marion Turner
 
 Fifty-Fifty - Steve Cavanagh
