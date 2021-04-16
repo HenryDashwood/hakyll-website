@@ -6,7 +6,9 @@ This list includes books, plays, and book length essays or papers that I have re
 
 A Heart so White - Javier Marías
 
-The Eclogues - Virgil
+The Georgics - Virgil (translated by Cecil Day-Lewis)
+
+The Eclogues - Virgil (translated by Cecil Day-Lewis)
 
 Chaucer: A European Life - Marion Turner
 
