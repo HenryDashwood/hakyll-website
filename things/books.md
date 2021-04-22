@@ -4,6 +4,8 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+The Canterbury Tales - Geoffrey Chaucer (translated by Nevill Coghill)
+
 A Heart so White - Javier Marías
 
 The Georgics - Virgil (translated by Cecil Day-Lewis)
@@ -654,9 +656,9 @@ How to Listen to and Understand Opera - Robert Greenberg
 
 Life and Writings of Geoffrey Chaucer - Seth Lerer
 
-The Canterbury Tales - Geoffrey Chaucer
+The Canterbury Tales - Geoffrey Chaucer (translated by J.U. Nicolson)
 
-Troilus and Criseyde - Geoffrey Chaucer
+Troilus and Criseyde - Geoffrey Chaucer (translated by Nevill Coghill)
 
 The English and Their History - Robert Tombs
 
