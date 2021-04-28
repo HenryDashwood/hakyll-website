@@ -4,6 +4,8 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+The Shepherd's Life - James Rebanks
+
 The Canterbury Tales - Geoffrey Chaucer (translated by Nevill Coghill)
 
 A Heart so White - Javier Marías
