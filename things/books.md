@@ -4,6 +4,10 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+English Pastoral - James Rebanks
+
+Empty Planet - Darrell Bricker, John Ibbitson
+
 The Shepherd's Life - James Rebanks
 
 The Canterbury Tales - Geoffrey Chaucer (translated by Nevill Coghill)
