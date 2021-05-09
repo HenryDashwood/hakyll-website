@@ -4,6 +4,8 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+Feral: Searching for Enchantment on the Frontiers of Rewilding - George Monbiot
+
 English Pastoral - James Rebanks
 
 Empty Planet - Darrell Bricker, John Ibbitson
