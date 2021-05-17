@@ -1,7 +1,9 @@
-FROM henrydashwood/hakyll
+FROM henrydashwood/hakyll:v0.0.2
 
-COPY . .
+COPY . /usr/src/website
 
-RUN stack build
+WORKDIR /usr/src/website
 
-RUN stack exec site build
+# RUN cabal new-install
+
+# RUN site build
