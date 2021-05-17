@@ -3,6 +3,7 @@
 **/__pycache__
 **/_site
 **/_cache
+**/dist-newstyle
 
 # Ignore filetypes
 **/*.jpg
