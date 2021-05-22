@@ -4,30 +4,33 @@ My personal website [henrydashwood.com](http://www.henrydashwood.com)
 
 ### Running Locally
 
+To install Hakyll (ARM Mac):
+
 ```shell
-stack build
-stack exec site build
-stack exec site watch
+curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | arch -x86_64 /bin/zsh
+cabal new-install hakyll
+```
+
+To view the site locally, `cd` into its directory and run
+
+```shell
+site build
+site watch
 ```
 
 Then you can view it at `http://localhost:8000/`
 
-### TODO
-
-#### Posts
-
-- How I built the site
-
-#### Technical
-
-- RSS
-- icons
-- links should popup on hover over superscript
-- Preview
-
 # CIless Deployments
 
 ```shell
-scp -i [SSH_KEY] _site/[PATH_TO_UPDATED_FILE] [USERNAME]]@[PUBLIC_IP]:~/[NAME_OF_FILE]
-ssh -i  [SSH_KEY] [USERNAME]]@[PUBLIC_IP] "sudo mv ~/[NAME_OF_FILE] /var/www/henrydashwood.com/[PATH/T0/FILE/DESTINATION]"
+scp -r -i [SSH_KEY] _site ubuntu@[PUBLIC_IP]:~
+ssh -i [SSH_KEY] ubuntu@[PUBLIC_IP] "sudo cp -r ~/_site/* /var/www/henrydashwood.com/ && rm -rf _site/"
+```
+
+# Setup remote machine to host site
+
+```shell
+sudo apt update -y
+sudo apt install -y apache2
+sudo service apache2 start
 ```

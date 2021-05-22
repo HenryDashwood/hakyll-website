@@ -4,6 +4,8 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+Six Easy Pieces - Richard P. Feynman
+
 Arcadia - Tom Stoppard
 
 Feral: Searching for Enchantment on the Frontiers of Rewilding - George Monbiot
@@ -506,8 +508,6 @@ Messy - Tim Harford
 
 Treatise on Law - Thomas Aquinas
 
-Surely You're Joking Mr Feynman - Richard Feynman
-
 Homo Deus - Yuval Noah Harari
 
 Gulliver's Travels - Jonathan Swift
@@ -560,7 +560,7 @@ The Complacent Class - Tyler Cowen
 
 The Pilgrim's Progress - John Bunyan
 
-Surely You're Joking, Mr. Feynman! - Richard Feynman
+Surely You're Joking, Mr. Feynman! - Richard P. Feynman
 
 Algorithms to Live By: The Computer Science of Human Decisions - Brian Christian and Tom Griffiths
 
