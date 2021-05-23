@@ -2,7 +2,7 @@
 
 My personal website [henrydashwood.com](http://www.henrydashwood.com)
 
-### Running Locally
+## Running Locally
 
 To install Hakyll (ARM Mac):
 
@@ -20,14 +20,14 @@ site watch
 
 Then you can view it at `http://localhost:8000/`
 
-# CIless Deployments
+## CIless Deployments
 
 ```shell
 scp -r -i [SSH_KEY] _site ubuntu@[PUBLIC_IP]:~
 ssh -i [SSH_KEY] ubuntu@[PUBLIC_IP] "sudo cp -r ~/_site/* /var/www/henrydashwood.com/ && rm -rf _site/"
 ```
 
-# Setup remote machine to host site
+## Setup remote machine to host site
 
 ```shell
 sudo apt update -y
