@@ -4,6 +4,10 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+La Vita Nuova - Dante Alighieri
+
+Small Men on the Wrong Side of History - Ed West
+
 Six Easy Pieces - Richard P. Feynman
 
 Arcadia - Tom Stoppard
