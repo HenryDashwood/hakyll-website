@@ -4,6 +4,8 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+The Mysteries of Udolpho - Ann Radcliffe
+
 The Divine Comedy - Dante Alighieri (translated by Robin Kirkpatrick)
 
 La Vita Nuova - Dante Alighieri (translated by Dante Gabriel Rossetti)
