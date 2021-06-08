@@ -23,6 +23,7 @@ Then you can view it at `http://localhost:8000/`
 ## CIless Deployments
 
 ```shell
+site build
 scp -r -i [SSH_KEY] _site ubuntu@[PUBLIC_IP]:~
 ssh -i [SSH_KEY] ubuntu@[PUBLIC_IP] "sudo cp -r ~/_site/* /var/www/henrydashwood.com/ && rm -rf _site/"
 ```
