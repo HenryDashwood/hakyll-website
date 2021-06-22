@@ -4,6 +4,12 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+Machiavelli in Context - William R. Cook
+
+The Prince - Niccolò Machiavelli (translated by George Bull)
+
+Classical Mechanics: The Theoretical Minimum - Leonard Susskind and George Hrabovsky
+
 The Mysteries of Udolpho - Ann Radcliffe
 
 The Divine Comedy - Dante Alighieri (translated by Robin Kirkpatrick)

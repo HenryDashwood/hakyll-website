@@ -1,6 +1,6 @@
 # Blogs
 
-A list of blogs, newsletters, and publications that I read and like
+A list of blogs, newsletters, podcasts, and publications that I like
 
 ## General Interest
 
@@ -10,7 +10,7 @@ The best blog on the internet. Scott Alexander would be my guess for the contemp
 
 ### [Marginal Revolution](https://marginalrevolution.com/)
 
-Tyler Cowen is an inforvore. He coined the term I think. He and Alex Tabarrok push new content every day along with a host of links. It is nominally a very good economics blog, but my favourite posts are those that discusss the arts and travel.
+Tyler Cowen is an inforvore. He coined the term I think. He and Alex Tabarrok push new content every day along with a host of links. It is nominally a very good economics blog, but my favourite posts are those that discusss the arts and travel. Tyler also has a [podcast](https://conversationswithtyler.com/) where he interviews various people.
 
 ### [Nintil](https://nintil.com/)
 
@@ -31,6 +31,10 @@ Oh yeah this gets a mention. It's actually full of interesting stuff and exposed
 ### [The Diff](https://diff.substack.com)
 
 Byrne Hobart's analysis of whatever takes interest. Generally has a finance focus.
+
+### [Thoughts in Between](http://tib.matthewclifford.com/)
+
+Matthew Clifford co-founded Entrepreneur First and writes a weekley newsletter. It covers tech, geopolitcs, and anything published that week which takes his interest. He also has a [podcast](https://podcasts.apple.com/us/podcast/thoughts-in-between-exploring-how-technology-collides/id1547838601).
 
 ## History and the Arts
 
@@ -54,9 +58,13 @@ Anton Howes's newsletter on the industrial revolution is a terrific read from so
 
 The world's greatest back catalogue. I tend to skip the pieces that cover current events since they do not age well. But some contributors like Adam Tooze always get a read.
 
-### [New York Review of Books](https://www.nybooks.com/)
+### [Antigone](https://antigonejournal.com/)
 
-Not as good as the London Review of Books. But still good.
+A very good new online publication focussing on the Classics.
+
+### [The Rest is History](https://podcasts.apple.com/gb/podcast/the-rest-is-history/id1537788786)
+
+Tom Holland and Dominic Sandbrook discuss a historical topic, sometimes with guests, always very good.
 
 ## Science
 
@@ -84,11 +92,19 @@ Tomasso Dorigo writes about particle physics. He often posts good explainers of 
 
 Steve Hsu is a remarkable person, with feet in the worlds of physics and genetics. His blog covers both of those and more.
 
+### [Bio Eats World](https://future.a16z.com/bio-eats-world/)
+
+A podcast from Andreessen Horowitz. They discuss new papers, companies working in the space, and other developments.
+
+### [Razib Khan](https://www.razib.com/bio/wordpress/)
+
+This is one that could go in several different sections, with several different links. Razib is a genetisist with an interest in history and social science. He writes a lot about how genetics have illuminated various areas or archeology, and much more. He has several blogs and podcasts and has also written for various other publications. He is also on Clubhouse, a lot.
+
 ## Technology
 
 ### [Benedict Evans](https://www.ben-evans.com/)
 
-Benedict Evans writes about the tech industry on his blog and in his weekly newsletter. I don't quite know how to phrase this, but he has a knack for distilling events into ideas that make the world seem clearer.
+Benedict Evans writes about the tech industry on his blog and in his weekly newsletter. I don't quite know how to phrase this, but he has a knack for distilling events into ideas that make the world seem clearer. He also has a [podcast](https://podcasts.apple.com/us/podcast/another-podcast/id1535359773) with Toni Cowan Brown.
 
 ### [Bloomberg NEF](https://about.bnef.com/blog/)
 
@@ -97,6 +113,14 @@ Lots of good pieces on the state of various decarbonisation technologies with fo
 ### [Increment](https://increment.com/)
 
 A publication from Stripe Press. Lots of stuff about managing software teams but my favourite posts are those about the history and development of various projects. We should have more histories like those.
+
+### [Casey Handmer](https://caseyhandmer.wordpress.com/)
+
+Lots of good stuff about energy, space, and procurement.
+
+### [Deep into the Forest](https://deepforest.substack.com/)
+
+This is a good newsletter that gives a quick overview of various hard technologies.
 
 ## Politics
 
@@ -115,3 +139,7 @@ Tom's writing about the British state is essential reading in my opinion. It has
 ### [Works in Progress](https://worksinprogress.co/)
 
 This is a new publication from the ASI crew. It's very good.
+
+### [Chartbook](https://adamtooze.substack.com/)
+
+Adam Tooze has a newsletter now. It covers whatever is interesting him at that moment which tends to mean macroeconomics and international political economy.
