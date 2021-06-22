@@ -1,4 +1,4 @@
-# Blogs
+# Publications
 
 A list of blogs, newsletters, podcasts, and publications that I like
 

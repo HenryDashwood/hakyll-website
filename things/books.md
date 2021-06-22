@@ -4,6 +4,10 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+Introduction to Bioinformatics - Arthur Lesk
+
+Bioinformatics with Python Cookbook - Tiago Antao
+
 Machiavelli in Context - William R. Cook
 
 The Prince - Niccolò Machiavelli (translated by George Bull)
