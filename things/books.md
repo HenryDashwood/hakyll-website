@@ -4,7 +4,9 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
-Introduction to Bioinformatics - Arthur Lesk
+Introduction to Bioinformatics - Arthur M. Lesk
+
+Introduction to Genomics - Arthur M. Lesk
 
 Bioinformatics with Python Cookbook - Tiago Antao
 
