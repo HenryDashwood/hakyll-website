@@ -43,7 +43,7 @@ Logarithmic representation of the probability of an accurate call. This probabil
 
 ## Tools
 
-- Biopython
+- [Biopython](https://biopython.org)
 - [Pysam](https://github.com/pysam-developers/pysam) and SAMTools
 
 ## Actions
@@ -51,3 +51,21 @@ Logarithmic representation of the probability of an accurate call. This probabil
 - Manipulation
 - - Reverse Complementing
 - - Transcription
+
+## Genomics
+
+The human genome contains 3,200,000,000 or $$3.2\times10^9$$ base pairs, distributed among 46 chromosomes, plus mitochondial DNA. There are 23,000 protein-coding genes.
+
+Your **genotype** is your DNA sequence, both nuclear and mitochrondrial. Plants also have chloroplast DNA. Your **phenotype** is the collection of observable traits other than your DNA sequence. **Phamacogenetics** is the persuit of personalised drugs based on DNA sequences for the prevention and treatment of disease. Your **life hisory** is the integrated total of your physical and psychological experiences.
+
+The cells in your body except for gametes (sperm and egg cells), erythrocytes (red blood cells), and cells of the immune system have the same DNA sequence. **Epigenetics** is the study of how your behaviour and environment can cause changes that affect the way your genes work, without altering your DNA sequence.
+
+| Feauture                                       |                 Prokaryotic Cell                 |                                     Eukaryotic Cell                                     |
+| :--------------------------------------------- | :----------------------------------------------: | :-------------------------------------------------------------------------------------: |
+| _Size_                                         |                    10$$\mu$$m                    |                                       100$$\mu$$m                                       |
+| _Subcelluar Division_                          |                    No nucleus                    |                                         Nucleus                                         |
+| _State of major component of genetic material_ | Circular loop, few proteins permenantly attached |                       Complexed with histones to form chromosomes                       |
+| _Internal differentiation_                     |        No organised subcellular structure        | Nuclei, mitochondria, chloroplasts, cytoskeleton,endoplasmic reticulum, Golgi apparatus |
+| _Cell division_                                |                     Fission                      |                                  Mitosis (or meiosis)                                   |
+
+**Mitochondia** and **chloroplasts** are subcellular particles involved in energy transduction. The former carry out **oxidative phosphorilation**, the coversion or reducing power from metabolising food into **adenosine triphosphate (ATP)**. The latter carry out photosynthises, the capture of light energy in the form of **nicotinamade adenine dinucleotide phosphate (NADPH)** and ATP, leading to the synthesis of sugars.

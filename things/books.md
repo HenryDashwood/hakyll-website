@@ -4,6 +4,8 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+The Florentines: From Dante to Galileo - Paul Strathern
+
 Introduction to Bioinformatics - Arthur M. Lesk
 
 Introduction to Genomics - Arthur M. Lesk
