@@ -4,6 +4,8 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+The Frackers - Gregory Zuckerman
+
 Roxana - Daniel Defoe
 
 The Florentines: From Dante to Galileo - Paul Strathern
