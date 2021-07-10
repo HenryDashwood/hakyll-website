@@ -4,9 +4,13 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
-The Frackers - Gregory Zuckerman
+Ageless: The New Science of Getting Older Without Getting Old - Andrew Steele
 
-Roxana - Daniel Defoe
+Illusionism as a Theory of Consciousness - Keith Frankish
+
+The Frackers: The Outrageous Inside Story of the New Billionaire Wildcatters - Gregory Zuckerman
+
+Roxana: The Fortunate Mistress - Daniel Defoe
 
 The Florentines: From Dante to Galileo - Paul Strathern
 
