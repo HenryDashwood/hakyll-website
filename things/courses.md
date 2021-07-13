@@ -61,3 +61,9 @@ _These courses are amazing. A complete line by line guide to building APIs, conn
 [Full Stack Web Developer](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044)
 
 _Udacity have a more hands off approach when it comes to their projects. I always hate this at the time, especially if I am required to use work with third party apis and documentation. However, you really do learn a lot in the process._
+
+## Bioinformatics
+
+[Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science)
+
+_Currently taking this course. Will report back in due course_

@@ -4,6 +4,8 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+The History of Rasselas, Prince of Abissinia - Samuel Johnson
+
 Ageless: The New Science of Getting Older Without Getting Old - Andrew Steele
 
 Illusionism as a Theory of Consciousness - Keith Frankish
