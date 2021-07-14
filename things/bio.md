@@ -32,7 +32,26 @@ $$
 3' - TGTGGCCAA - 5'
 $$
 
+To make a copies of DNA we attach a primer to each end. We seperate the the strands by warming it up to 94 degrees. When the DNA cools down to 54 degrees, the separated strands stick to their respective primers. At 72 degrees we then use the copyier molecule **DNA polymerase** which looks for sites where the DNA is double stranded and then goes along the single stranded gap filling it in. You also need to add raw nucleic acids for the polymerase to use. We can then repeat the cycle, doubling the amount of DNA each time. This is known as a **polymerase chain reaction (PRC)**
+
+**Next Generation Sequencing** works by chopping up DNA into single stranded fragments attached to a slide. PCR is then used to make clusters of identical fragements on the slide. Nucleotides are then added so that they bind with a single base in each fragment of DNA. They are modified to fluoresce in different colours so we can take pictures to see which base is present and also to have a terminator molecule so we only add one at a time. It is not perfect as errors increase in later cycles which is why it used on short strands of DNA.
+
+RNA chops up DNA into **exons** and **introns**. Introns get thrown away while exons are concatenated together and translated into proteins. Exons make up your **exome**. It is only ~1.5% of your genome and therefore much more practical to sequence.
+
+Since RNA is single stranded it can't be sequenced. However, we can transcribe it into **complimentary DNA (cDNA)** with a molecule called **reverse transcriptase**
+
 ## File Formats
+
+For the purpose of compression, DNA bases are often stored as just two bits. Specififcally:
+
+|     |     |
+| :-: | :-: |
+|  A  | 00  |
+|  C  | 01  |
+|  G  | 10  |
+|  T  | 11  |
+
+More modern formats make use of the probablilty certain bases appear at certain locations.
 
 ### FASTA.
 
