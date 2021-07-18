@@ -4,6 +4,10 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+Meditations on First Philosophy and Discourse on the Method - René Descartes
+
+A General History of the Pyrates: From Their First Rise and Settlement in the Island of Providence, to the Present Time - Daniel Defoe
+
 The History of Rasselas, Prince of Abissinia - Samuel Johnson
 
 Ageless: The New Science of Getting Older Without Getting Old - Andrew Steele
