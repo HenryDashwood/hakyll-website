@@ -4,6 +4,12 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+Descartes: A Very Short Introduction - Tom Sorrell
+
+Great Minds of the Western Intellectual Tradition - Alan Charles Kors, Darren Staloff, Dennis Dalton, Douglas Kellner
+
+Mastering spaCy: An end-to-end practical guide to implementing NLP applications using the Python ecosystem - Duygu Altinok
+
 Meditations on First Philosophy and Discourse on the Method - René Descartes
 
 A General History of the Pyrates: From Their First Rise and Settlement in the Island of Providence, to the Present Time - Daniel Defoe

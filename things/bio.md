@@ -4,7 +4,7 @@ It is my big project over the next year to break into the world of biotech. To t
 
 The central dogma of biology (coined by Francis Crick) says that information flows in one direction from **DNA** to **RNA** to **proteins**. Pieces of DNA called **exons** are **transcribed** into RNA. RNA is molecularly the same as DNA, except for thiamine which becomes uracil in RNA. RNA is also single, as opposed to double, stranded. Instead of the 4 nucleic acids, proteins in the human body are made of 20 different types of **amino acid**. A typical protein is 300-400 amino acids long. Three letters of RNA encode an amino acid. This is called **translation** As there are 4 possible RNA nucleotides, there are $$4^3 = 64$$ possible triplets. More combinations than amino acids. 3 triplets are stop codons, which indicate the end of a protein.
 
-The human genome contains 3,200,000,000 or $$3.2\times10^9$$ base pairs, distributed among 46 chromosomes, plus mitochondial DNA. There are 23,000 protein-coding genes.
+The human genome contains 3,200,000,000 or $$3.2\times10^9$$ base pairs, distributed among 46 chromosomes, plus mitochondial DNA. There are 23,000 protein-coding genes. Unrelated human genomes differ by ~0.1%. Many of the differences are in the form of isolated base substitutions, or **single-nucleotide polymorphisms (SNPs)**. Other differences include small deletions or variation in the length of repetitive regions, including variation in the number of copy genes.
 
 Your **genotype** is your DNA sequence, both nuclear and mitochrondrial. Plants also have chloroplast DNA. Your **phenotype** is the collection of observable traits other than your DNA sequence. **Phamacogenetics** is the persuit of personalised drugs based on DNA sequences for the prevention and treatment of disease. Your **life hisory** is the integrated total of your physical and psychological experiences.
 
@@ -36,9 +36,17 @@ To make a copies of DNA we attach a primer to each end. We seperate the the stra
 
 **Next Generation Sequencing** works by chopping up DNA into single stranded fragments attached to a slide. PCR is then used to make clusters of identical fragements on the slide. Nucleotides are then added so that they bind with a single base in each fragment of DNA. They are modified to fluoresce in different colours so we can take pictures to see which base is present and also to have a terminator molecule so we only add one at a time. It is not perfect as errors increase in later cycles which is why it used on short strands of DNA.
 
-RNA chops up DNA into **exons** and **introns**. Introns get thrown away while exons are concatenated together and translated into proteins. Exons make up your **exome**. It is only ~1.5% of your genome and therefore much more practical to sequence.
+RNA chops up DNA into **exons** and **introns**. Introns get thrown away while exons are concatenated together and translated into proteins. Exons make up your **exome**. It is only ~1.5% of your genome and therefore much more practical to sequence. A protein coding region contains **Open Reading Frames (ORF)**. An ORF is a region of DNA sequence, or reasonable length, that begins with an initiation codon. An ORF is a potential protein coding region. Genes in prokaryots are smaller and do not have introns.
 
 Since RNA is single stranded it can't be sequenced. However, we can transcribe it into **complimentary DNA (cDNA)** with a molecule called **reverse transcriptase**
+
+### Identifying genes in genomes
+
+An early step in analyising a newly-sequenced genome is identiying the genes that code for proteins and RNAs, and to identify their products. There are two basic approaches:
+
+1. _A priori_ methods seek to recognise sequence patterns within expressed genes and the regions flanking them. Protein coding regions have distinctive patterns of codon statistics such as the abscence of stop codons.
+
+2. _"Been there, seen that"_ methods recognise regions corresponding to previously known genes from the similarity of their translated amino acid sequences to known proteins in other species, or by matching **Expressed Sequence Tags (EST)**. ESTs are sequences that correspond to at least part of a transcribed gene.
 
 ## File Formats
 
