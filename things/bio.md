@@ -48,6 +48,14 @@ An early step in analyising a newly-sequenced genome is identiying the genes tha
 
 2. _"Been there, seen that"_ methods recognise regions corresponding to previously known genes from the similarity of their translated amino acid sequences to known proteins in other species, or by matching **Expressed Sequence Tags (EST)**. ESTs are sequences that correspond to at least part of a transcribed gene.
 
+### Haplotypes
+
+**Haplotypes**, or _haploid genotypes_ are local combinations of genetic polymorphisms that tend to be co-inherited. They are a cheap way to characterise genomes.
+
+Mutations in the same DNA molecule in diploid chromasomes will become unlinked by recombination events the occur between their loci. The greater the separation between two sites, the greater the frequency of recombination. Recombination rates vary widely along the genome, by several orders of magnitude. SNPs on opposite sides of recombinational hotspots are more likely to be separated in any generation. SNPs in recombination rare coldspots will tend to stay together.
+
+In humans, many 100-kb regions tend to remain intact. They show the expected number of genomes but relatively few of the possible combinations. An average SNP density of 0.1%, or 1 SNP/kb, suggests ~100 SNPs per 100kb. The genome of any idividual may posses or lack each of them giving $2^{100}$ possible combinations. However, many 100-kb regions have fewer than 5 combinations of SNPs. These discrete combinations of SNPs in recombination-poor regions define an individual's haplotype.
+
 ## File Formats
 
 For the purpose of compression, DNA bases are often stored as just two bits. Specififcally:

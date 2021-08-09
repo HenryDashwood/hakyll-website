@@ -4,6 +4,10 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+The Red Prince: The Life of John of Gaunt, the Duke of Lancaster - Helen Carr
+
+Twilight - Stephenie Meyer
+
 Descartes: A Very Short Introduction - Tom Sorrell
 
 Great Minds of the Western Intellectual Tradition - Alan Charles Kors, Darren Staloff, Dennis Dalton, Douglas Kellner
