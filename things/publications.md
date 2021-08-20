@@ -150,4 +150,4 @@ Adam Tooze has a newsletter now. It covers whatever is interesting him at that m
 
 ### [In the Sight of the Unwise](https://inthesightoftheunwise.substack.com/)
 
-Analyis whether eclesiastical or political is always insightful.
+Analysis whether eclesiastical or political is always insightful.

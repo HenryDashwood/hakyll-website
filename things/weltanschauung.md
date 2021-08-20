@@ -8,7 +8,7 @@ The first Scott Alexander blog post that I read and the starting point for how I
 
 [An apology for the builder](https://quod.lib.umich.edu/e/eebo/A30880.0001.001?rgn=main;view=fulltext) - Nicholas Barbon
 
-People hate builders and property developers. It's rare to see a full throated defense of them. The antiquity of Barbon, the fact that any buildings from his time would be protected now, and the number of people who live in places that have been developed since his day and would resent the idea that we would be better off without their homes give this piece a weight that I don't think you get elsewhere.
+People hate builders and property developers. It's rare to see a full throated defense of them. The antiquity of Barbon, the fact that any buildings from his time would be protected now, and the number of people who live in places that have been developed since his day and would resent the idea that we would be better off without their homes give this piece a weight that I don't think you get from contempory writing.
 
 [The Leopard](https://uk.bookshop.org/a/3247/9780099512158) - Giuseppe Tomasi di Lampedusa
 
@@ -25,7 +25,7 @@ Some things are getting worse in the world, even as most things have been gettin
 [What you think about landfill and recycling is probably totally wrong](https://medium.com/@robertwiblin/what-you-think-about-landfill-and-recycling-is-probably-totally-wrong-3a6cf57049ce) -
 Robert Wiblin
 
-Lot's of things seem important or effective but aren't. This is a piece about why recycling is over rated in some cases. It reminds me to think about the absolute numbers at play behind an issue, and the way something is implemented instead of the way it is described.s
+Lot's of things seem important or effective but aren't. I include this piece because, beyond the specific issue it discussess, it reminds me to think about the absolute numbers at play in an issue and the way something is implemented instead of the way it gets described.
 
 [Ads don't work that way](https://meltingasphalt.com/ads-dont-work-that-way/) - Kevin Simler
 
