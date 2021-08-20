@@ -122,6 +122,10 @@ Lots of good stuff about energy, space, and procurement.
 
 This is a good newsletter that gives a quick overview of various hard technologies.
 
+### [Construction Physics](https://constructionphysics.substack.com/)
+
+A newsletter that covers different approaches to building more productively, whether that be regulatory or technological.
+
 ## Politics
 
 ### [Palladium Magazine](https://palladiummag.com/)
@@ -143,3 +147,7 @@ This is a new publication from the ASI crew. It's very good.
 ### [Chartbook](https://adamtooze.substack.com/)
 
 Adam Tooze has a newsletter now. It covers whatever is interesting him at that moment which tends to mean macroeconomics and international political economy.
+
+### [In the Sight of the Unwise](https://inthesightoftheunwise.substack.com/)
+
+Analyis whether eclesiastical or political is always insightful.

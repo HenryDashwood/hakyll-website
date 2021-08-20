@@ -4,6 +4,8 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+Unfinished Tales - J.R.R. Tolkien
+
 The Red Prince: The Life of John of Gaunt, the Duke of Lancaster - Helen Carr
 
 Twilight - Stephenie Meyer

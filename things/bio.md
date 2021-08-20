@@ -56,6 +56,16 @@ Mutations in the same DNA molecule in diploid chromasomes will become unlinked b
 
 In humans, many 100-kb regions tend to remain intact. They show the expected number of genomes but relatively few of the possible combinations. An average SNP density of 0.1%, or 1 SNP/kb, suggests ~100 SNPs per 100kb. The genome of any idividual may posses or lack each of them giving $2^{100}$ possible combinations. However, many 100-kb regions have fewer than 5 combinations of SNPs. These discrete combinations of SNPs in recombination-poor regions define an individual's haplotype.
 
+### De novo sequencing
+
+Sequncing the genome of a species for the first time is hard because the data comes to us in fragments and we have to reference to guide us as we try to stitch it together. The fragments are typically about 200bp long. High-throughput sequencing produces partial sequence information from both these fragments either from one end or both ends. The number of bases reported is the **read length**. We want to make our read length as big as possible. We then need to assemble the fragments into a continuous stretch of sequence. These partial assemblies are called **contigs**. We need enough fragments to cover the entire genome and then more so that we can detect errors. The ratio of the total number of bases sequenced to the genomes actual length is called the **coverage**. Complete and accurate results require a coverage of 30 to 50.
+
+This process is generally enough for prokaryotic genomes. Eukaryotic genomes are more complicated. They need to be broken into smaller pieces and built back up with a genetic map. It's very computationally expensive.
+
+### Reference genomes
+
+Once a reference genome is published. Future sequences can be mapped onto it. This is straightforward except for highly repetative regions. Coverage must be adequate so that the error rate of sequence determination is less than natural variation.
+
 ## File Formats
 
 For the purpose of compression, DNA bases are often stored as just two bits. Specififcally:
