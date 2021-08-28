@@ -22,6 +22,10 @@ In some ways this is just another piece about bad urbanism in the US. Perhaps th
 
 Some things are getting worse in the world, even as most things have been getting better. It's possible that the bad things might one day outway the good. Sometimes we have to turn around but sometimes the solution is to speed up.
 
+[Empty Planet](https://uk.bookshop.org/a/3247/9781472142979) - Darrell Bricker, John Ibbitson
+
+People are still worrying about overpopulation when the far more likely future is a reversal. Obviously forcasts like this can change a lot but this book should get you thinking about what the implications of low to negative population growth might be.
+
 [What you think about landfill and recycling is probably totally wrong](https://medium.com/@robertwiblin/what-you-think-about-landfill-and-recycling-is-probably-totally-wrong-3a6cf57049ce) -
 Robert Wiblin
 

@@ -4,6 +4,18 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+The Monk - Matthew Lewis
+
+Lear: The Great Image of Authority - Harold Bloom
+
+A Casino Odyssey in Cyberspace - Roger Williams
+
+The Metamorphosis of Prime Intellect - Roger Williams
+
+Frankenstein: Annotated for Scientists, Engineers, and Creaters of All Kinds (1818) - Mary Shelley
+
+She Stoops to Conquer - Oliver Goldsmith
+
 Unfinished Tales - J.R.R. Tolkien
 
 The Red Prince: The Life of John of Gaunt, the Duke of Lancaster - Helen Carr
