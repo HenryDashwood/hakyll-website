@@ -4,6 +4,12 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+The Italian - Ann Radcliffe
+
+King Lear - William Shakespeare
+
+The Eighth Day of Creation: Makers of the Revolution in Biology - Horace Freeland Judson
+
 The Monk - Matthew Lewis
 
 Lear: The Great Image of Authority - Harold Bloom

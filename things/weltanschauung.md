@@ -34,3 +34,21 @@ Lot's of things seem important or effective but aren't. I include this piece bec
 [Ads don't work that way](https://meltingasphalt.com/ads-dont-work-that-way/) - Kevin Simler
 
 Sometimes adverts are about informing people about the existance of a product. But the adverts that never go away are about establishing common knowledge.
+
+[Into the Fairy Castle: The Persistence of Victorian Liberalism](https://americanaffairsjournal.org/2021/08/into-the-fairy-castle-the-persistence-of-victorian-liberalism/) - Samuel Biagetti
+
+Something is rotten in the state of... Denmark, where the essay begins with a discussion of the TV show Borgen and the class of people it was made by and for. But then the essay takes us back to the 19th century, the rise of the administrative middle class, and the tension in satire that placates the court. A society where the satirists have the same aspirations as the satired. In the present we obsess over unserious things but, unlike a century and half ago, we lack the dynamism and growth for this to be sustainable.
+
+[All the East is Moving](https://www.firstthings.com/article/2016/08/all-the-east-is-moving) - Tom Holland
+
+[The fall of the Roman empire and the rise of Islam](https://www.theguardian.com/books/2012/mar/30/fall-roman-empire-rise-islam) - Tom Holland
+
+On Europe and her convulsions, from within and without.
+
+[From the Trenches to Mordor and Back: World War I and British Fantasy Literature](https://warontherocks.com/2018/10/from-the-trenches-to-mordor-and-back-world-war-i-and-british-fantasy-literature/) - Iskander Rehman
+
+A survey of great art created at a sad time.
+
+[Imperial fiction: Goodbye, Mr Chips](https://thelionandunicorn.wordpress.com/2020/12/14/imperial-fiction-goodbye-mr-chips/) - Alwyn Turner
+
+My mother is always brought to tears by the end of Winnie the Pooh. Goodbye Mr Chips has a similar effect on me. I think this review, including its look at Hilton's life, captures something of why.
