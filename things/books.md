@@ -4,7 +4,7 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
-Love's Labour's Won - William Shakespeare
+Love's Labour's Lost - William Shakespeare
 
 Haydn - His Life and Music - Robert Greenberg
 
