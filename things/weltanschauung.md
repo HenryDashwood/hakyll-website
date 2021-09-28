@@ -72,3 +72,7 @@ A survey of great art created at a sad time.
 [Imperial fiction: Goodbye, Mr Chips](https://thelionandunicorn.wordpress.com/2020/12/14/imperial-fiction-goodbye-mr-chips/) - Alwyn Turner
 
 My mother is always brought to tears by the end of Winnie the Pooh. Goodbye Mr Chips has a similar effect on me. I think this review, including its look at Hilton's life, captures something of why.
+
+[All This Useless Beauty](https://wayofthedodo.substack.com/p/all-this-useless-beauty)
+
+Why are some things beautiful? Why should the peacock's tail be of interest to us. Why are we not repulsed by the sight of a sand dune? Across the natural world, creation seems to have some consistent ideas for what is good and what is bad.

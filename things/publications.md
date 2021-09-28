@@ -4,9 +4,9 @@ A list of blogs, newsletters, podcasts, and publications that I like
 
 ## General Interest
 
-### [Slate Star Codex](https://slatestarcodex.com/)
+### [Astral Codex Ten](https://astralcodexten.substack.com/)/[Slate Star Codex](https://slatestarcodex.com/)
 
-The best blog on the internet. Scott Alexander would be my guess for the contempory writer most likely to be cited in the next century.
+The best blog and former blog on the internet. Scott Alexander would be my guess for the contempory writer most likely to be cited in the next century.
 
 ### [Marginal Revolution](https://marginalrevolution.com/)
 
@@ -22,7 +22,7 @@ Another blog that could be grouped under science but feels broader. Gwern Branwe
 
 ### [The Economist](https://www.economist.com)
 
-"To err is human. To er, um, ah is unacceptable"
+"To err is human. To er... um... ah... is unacceptable"
 
 ### [Dominic Cummings Blog](https://dominiccummings.com/)
 
@@ -48,7 +48,7 @@ Tim O'Neil is an atheist who got annoyed by other atheists making a hash of thei
 
 ### [The Analogue Antiquarian](https://analog-antiquarian.net/)
 
-Every two weeks comes a new post in an ongoing series. First there was the history of ancient Egypt from the perspective of those who rediscovered it. Then came ancient Greece told through its myths and then its histories. Ongoing is his series on people's attempts to uncover the mystery of the Hanging Gardens of Babylon.
+Every two weeks comes a new post in an ongoing series. First there was the history of ancient Egypt from the perspective of those who rediscovered it. Then came ancient Greece told through its myths and then its histories. Then the mystery of the Hanging Gardens of Babylon. Most recent was a history of Alexandria.
 
 ### [Age of Invention](https://antonhowes.substack.com/)
 
@@ -65,6 +65,10 @@ A very good new online publication focussing on the Classics.
 ### [The Rest is History](https://podcasts.apple.com/gb/podcast/the-rest-is-history/id1537788786)
 
 Tom Holland and Dominic Sandbrook discuss a historical topic, sometimes with guests, always very good.
+
+### [The Way of the Dodo](https://wayofthedodo.substack.com/)
+
+A young newsletter from the pseudonymous Twitter account [Ancient Earthling](https://twitter.com/Dust_Foot), topics have included investigations of Shakespeare's sonnets and portraiture, and the question of why certain objects and environments are beautiful.
 
 ## Science
 
