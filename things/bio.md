@@ -124,14 +124,42 @@ The most common representation for aligned data is the sequence alignment map (S
 
 Logarithmic representation of the probability of an accurate call. This probability is given as $$10^{-Q/10}$$. So a Q of 10 represents a 90 percent call accuracy, 20 represents 99 percent call accuracy, and 30 will be 99.9 percent. For our file, the maximum accuracy will be 99.99 percent (40). In some cases, values of 60 are possible (99.9999 percent accuracy).
 
+## Algorithms
+
+### Reverse Complement
+
+Gets the bases from the opposite strand of DNA
+
+```python
+def reverseComplement(s):
+    complement = {'A': 'T', 'C': 'G', 'G': 'C', 'T': 'A', 'N': 'N'}
+    t = ''
+    for base in s:
+        t = complement[base] + t
+    return t
+```
+
+### Naive Sequence Matching
+
+Slow but simple way of solving the read alignemnt problem
+
+```python
+def naive(p, t):
+    occurrences = []
+    for i in range(len(t) - len(p) + 1): # loop over alignments
+        match = True
+        for j in range(len(p)): # loop over characters
+            if t[i+j] != p[j]: # compare characters
+                match = False
+                break
+        if match:
+            occurrences.append(i) # all chars matched; record
+    return occurrences
+```
+
+### Boyer Moore Matching
+
 ## Tools
 
 - [Biopython](https://biopython.org)
 - [Pysam](https://github.com/pysam-developers/pysam) and SAMTools
-
-## Actions
-
-- Manipulation
-- - Reverse Complementing
-- - Transcription
-    $$

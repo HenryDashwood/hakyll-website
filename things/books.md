@@ -4,6 +4,10 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+A Woman of No Importance - Oscar Wilde
+
+The Radicalism of the American Revolution - Gordon S. Wood
+
 Love's Labour's Lost - William Shakespeare
 
 Haydn - His Life and Music - Robert Greenberg
@@ -18,7 +22,7 @@ Two Gentlemen of Verona - William Shakespeare
 
 The Italian - Ann Radcliffe
 
-King Lear - William Shakespeare
+King Lear - William Shakespearex
 
 The Eighth Day of Creation: Makers of the Revolution in Biology - Horace Freeland Judson
 

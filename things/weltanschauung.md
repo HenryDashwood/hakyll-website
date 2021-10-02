@@ -63,6 +63,16 @@ Something is rotten in the state of... Denmark, where the essay begins with a di
 
 On Europe and her convulsions, from within and without.
 
+[God's Philosophers](https://uk.bookshop.org/a/3247/9781848311503) - James Hannam
+
+There was no dark age in the middle ages. The renaissance evolved out of the science, innovation and enquiry that medieval scholars had been performing for centuries. Lot's of bad history can be traced back to anti-Catholic historians in the 18th century.
+
+[Building a Cathedral](https://theprepared.org/features-feed/2019/4/28/building-a-cathedral) - Nicolas Kemper
+
+"The drawn-out schedules of cathedrals could then be less about their failure as construction projects than their durability as institutions. That may indeed be why a Cathedral is often invoked, metaphorically, by institution builders."
+
+"a building is never simply a building – it is a constant battlefield between what it should be and what it could be, played out across what it is."
+
 ## Culture
 
 [From the Trenches to Mordor and Back: World War I and British Fantasy Literature](https://warontherocks.com/2018/10/from-the-trenches-to-mordor-and-back-world-war-i-and-british-fantasy-literature/) - Iskander Rehman
