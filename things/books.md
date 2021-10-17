@@ -4,6 +4,18 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+Henry VI part i - William Shakespeare
+
+The Female Quixote - Charlotte Lennox
+
+A Philosophical Enquiry into the Sublime and Beautiful - Edmund Burke
+
+The Taming of the Shrew - William Shakespeare
+
+An Ideal Husband - Oscar Wilde
+
+Much Ado About Nothing - William Shakespeare
+
 A Woman of No Importance - Oscar Wilde
 
 The Radicalism of the American Revolution - Gordon S. Wood
@@ -502,7 +514,7 @@ A Testament of Youth - Vera Brittain
 
 The Importance of Being Earnest - Oscar Wilde
 
-Richard iii - William Shakespeare
+Richard III - William Shakespeare
 
 Henry VI - part iii - William Shakespeare
 
@@ -761,6 +773,8 @@ Dante's Divine Comedy - Ronald B. Herzman and William R. Cook
 The Divine Comedy - Dante Alighieri (translated by Carlyle Okey-Wicksteed)
 
 The Box - Marc Levinson
+
+Much Ado About Nothing - William Shakespeare
 
 Meditations - Marcus Aurelius
 
@@ -1069,6 +1083,8 @@ The Age of Innocence - Edith Wharton
 Ethan From - Edith Wharton
 
 ## 2010 and before
+
+The Merchant of Venice - William Shakespeare
 
 No Country for Old Men - Cormac McCarthy
 
