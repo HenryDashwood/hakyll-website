@@ -4,6 +4,8 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+Reflections on the Revolution in France - Edmund Burke
+
 Henry VI part i - William Shakespeare
 
 The Female Quixote - Charlotte Lennox
