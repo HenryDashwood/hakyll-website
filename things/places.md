@@ -45,7 +45,7 @@ Loads of tables. Square but legs a bit narrow. Can get onto eduroam WiFi if you 
 
 #### The Gentlemen Baristas, Piccadilly
 
-Tables and benches are a good height and shape. Lots of plugs behind the seats. Fast unsecured WiFi. Good food.
+Tables and benches are a good height and shape. Lots of plugs behind the seats. Fast unsecured WiFi. Good food. Feels quite crowded at weekends though.
 
 ## Oxford
 
@@ -69,4 +69,16 @@ Tables and benches are a good height and shape. Lots of plugs behind the seats. 
 
 #### The Scottish National Portrait Gallery
 
+#### Scottish National Gallery of Modern Art
+
+#### The Real Mary King's Close
+
+#### John Knox's House
+
+#### Royal Yacht Britannia
+
+#### Rosslyn Chapel
+
 ### Coffee Shops
+
+#### The Elephant House

@@ -4,6 +4,12 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+Pride and Prejudice - Jane Austen
+
+Henry VI part ii - William Shakespeare
+
+Sense and Sensibility - Jane Austen
+
 Reflections on the Revolution in France - Edmund Burke
 
 Henry VI part i - William Shakespeare
