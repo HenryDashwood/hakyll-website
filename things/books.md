@@ -4,6 +4,10 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+Mansfield Park - Jane Austen
+
+QuickStart Molecular Biology: An Introductory Course for Mathematicians, Physicists, and Engineers - Philip N. Benfey
+
 Pride and Prejudice - Jane Austen
 
 Henry VI part ii - William Shakespeare

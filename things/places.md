@@ -2,6 +2,8 @@
 
 ## London
 
+### Places to visit
+
 #### The British Museum
 
 #### The National Gallery
@@ -30,8 +32,6 @@
 
 #### Leighton House
 
-### Places to visit
-
 ### Coffee Shops
 
 The ideal coffee shop for working should have the following:
@@ -56,6 +56,8 @@ Tables and benches are a good height and shape. Lots of plugs behind the seats. 
 #### The Pitt Rivers Museum
 
 ### Coffee Shops
+
+#### George & Danver
 
 ## Edinburgh
 
