@@ -2,6 +2,12 @@
 
 It is my big project over the next year to break into the world of biotech. To that end I am writing this document. It is somewhat inspired by Stephen Diehl's [What I Wish I Knew When Learning Haskell](dev.stephendiehl.com/hask/) and Evan Chen's [An Infinitely Large Napkin](https://web.evanchen.cc/napkin.html).
 
+## What is a gene?
+
+### Medelian Genetics
+
+### Bio
+
 The central dogma of biology (coined by Francis Crick) says that information flows in one direction from **DNA** to **RNA** to **proteins**. Pieces of DNA called **exons** are **transcribed** into RNA. RNA is molecularly the same as DNA, except for thiamine which becomes uracil in RNA. RNA is also single, as opposed to double, stranded. Instead of the 4 nucleic acids, proteins in the human body are made of 20 different types of **amino acid**. A typical protein is 300-400 amino acids long. Three letters of RNA encode an amino acid. This is called **translation** As there are 4 possible RNA nucleotides, there are $$4^3 = 64$$ possible triplets. More combinations than amino acids. 3 triplets are stop codons, which indicate the end of a protein.
 
 The human genome contains 3,200,000,000 or $$3.2\times10^9$$ base pairs, distributed among 46 chromosomes, plus mitochondial DNA. There are 23,000 protein-coding genes. Unrelated human genomes differ by ~0.1%. Many of the differences are in the form of isolated base substitutions, or **single-nucleotide polymorphisms (SNPs)**. Other differences include small deletions or variation in the length of repetitive regions, including variation in the number of copy genes.
@@ -162,4 +168,26 @@ def naive(p, t):
 ## Tools
 
 - [Biopython](https://biopython.org)
-- [Pysam](https://github.com/pysam-developers/pysam) and SAMTools
+- FastQC
+- [MultiC](https://multiqc.info/)
+- SAMTools
+- [Trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic)
+  http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf
+- [STAR](https://github.com/alexdobin/STAR)
+- HTSeq
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4287950/
+- FastP
+- [Pysam](https://github.com/pysam-developers/pysam)
+- Kraken2
+
+## Futher Resources
+
+### Youtube
+
+[Alex Soupir](https://www.youtube.com/user/alexsoupir/about)
+
+[Simon Cockell](https://www.youtube.com/c/SimonCockell/about)
+
+### Books
+
+### Courses

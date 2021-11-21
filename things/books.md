@@ -4,6 +4,8 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+New Moon - Stephenie Meyer
+
 Mansfield Park - Jane Austen
 
 QuickStart Molecular Biology: An Introductory Course for Mathematicians, Physicists, and Engineers - Philip N. Benfey
