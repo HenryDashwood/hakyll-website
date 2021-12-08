@@ -4,6 +4,12 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+Mother Courage and Her Children - Bertolt Brecht
+
+The Discovery of France - Graham Robb
+
+Emma - Jane Austen
+
 New Moon - Stephenie Meyer
 
 Mansfield Park - Jane Austen

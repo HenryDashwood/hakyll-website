@@ -180,6 +180,10 @@ def naive(p, t):
 - [Pysam](https://github.com/pysam-developers/pysam)
 - Kraken2
 
+## Epigenetics
+
+Illumina make the most popular machines for reading DNA methylation.
+
 ## Futher Resources
 
 ### Youtube
