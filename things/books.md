@@ -4,6 +4,14 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+History Has Begun - Bruno Maçães
+
+The Comedy of Errors - William Shakespeare
+
+How to Clone a Mammoth: The Science of De-Extinction - Beth Shapiro
+
+Henry VI part iii - William Shakespeare
+
 Mother Courage and Her Children - Bertolt Brecht
 
 The Discovery of France - Graham Robb
@@ -494,7 +502,7 @@ The Wind in the Willows - Kenneth Graham
 
 Quantum Computing Since Democritus - Scott Aaronson
 
-Belt and Road - Bruno Macaes
+Belt and Road - Bruno Maçães
 
 The Beginning of Infinity - David Deutsch
 
@@ -552,7 +560,7 @@ Anthony and Cleopatra - William Shakespeare
 
 Julius Ceasar - William Shakespeare
 
-The Dawn of Eurasia - Bruno Macaes
+The Dawn of Eurasia - Bruno Maçães
 
 A Farewell to Alms - Gregory Clarke
 
