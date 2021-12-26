@@ -48,6 +48,10 @@ _Going through courses like this is a good corrective to the Bryan Caplan argume
 
 _Wes is the best teacher of the "share my screen and you watch me code and then we write some code together and by the end you feel pretty comfortable with everything" school of instruction. I think frontend development is particularly well suited to this style because you get feedback on what your code is doing with each line you add. I took his react for Beginners course first, but that's a bit out of date now (no hooks etc) so I recommend his Beginner Javascript course to start. He's in the process of recording a new React course._
 
+[CSS for Javascript Developers](https://courses.joshwcomeau.com/css-for-js)
+
+_Everything about this course is amazing. The content is great. The embedded text, videos and coding playground are all put together perfectly_
+
 [Every Layout](https://every-layout.dev/)
 
 _This has been a really useful resource for CSS. Wes Bos also has a flexbox course which is free. One of the duo behind Every Layout has a new CSS course coming out soon which I will probably take._

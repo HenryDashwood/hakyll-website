@@ -1,6 +1,6 @@
 # Weltanschauung
 
-There are some things you read that strongly affect the way you look at the world. I've started to gather a list of such things here.
+There are some things you read that strongly affect the way you look at the world. I've started to gather a list of such things here. This are approximate categories. Most things could be placed in many.
 
 ## Politics
 
@@ -11,6 +11,10 @@ The first Scott Alexander blog post that I read and the starting point for how I
 [The Leopard](https://uk.bookshop.org/a/3247/9780099512158) - Giuseppe Tomasi di Lampedusa
 
 I think people oppose a lot of things because they don't like change. Yet there are other forces at play in the world and they don't wait for us. Standing athwart history yelling "stop" has consequences too. Sometimes if we want things to stay the same, or indeed get better, things will have to change.
+
+[Stephen Davies on Western Civilization](https://www.youtube.com/watch?v=xNOyramDh0I)
+
+Stephen Davis is someone I met just as I was forming a wordview. I think this talk is a good distillation of his thought. In a world of such huge technological, economic, and social change, what is civilisation? What is going to change? What will and should we conserve?
 
 ## Housing
 
@@ -74,6 +78,10 @@ There was no dark age in the middle ages. The renaissance evolved out of the sci
 "a building is never simply a building – it is a constant battlefield between what it should be and what it could be, played out across what it is."
 
 ## Culture
+
+[Civilisation](https://www.amazon.co.uk/Civilisation-Complete-DVD-Kenneth-Clark/dp/B00077284C)
+
+The greatest documentary series ever made. What makes a documentary series the greatest? I don't know, but I'm thinking of it now.
 
 [From the Trenches to Mordor and Back: World War I and British Fantasy Literature](https://warontherocks.com/2018/10/from-the-trenches-to-mordor-and-back-world-war-i-and-british-fantasy-literature/) - Iskander Rehman
 
