@@ -4,6 +4,10 @@ This list includes books, plays, and book length essays or papers that I have re
 
 ## 2021
 
+Persuasion - Jane Austen
+
+Northanger Abbery - Jane Austen
+
 History Has Begun - Bruno Maçães
 
 The Comedy of Errors - William Shakespeare
