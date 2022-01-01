@@ -1,12 +1,12 @@
 # Books
 
-This list includes books, plays, and book length essays or papers that I have read, in roughly reverse chronological order. My memory gets fuzzy the further back we go.
+This list includes books, plays, and book-length essays or papers that I have read, in roughly reverse chronological order. My memory gets fuzzy the further back we go.
 
 ## 2021
 
 Persuasion - Jane Austen
 
-Northanger Abbery - Jane Austen
+Northanger Abbey - Jane Austen
 
 History Has Begun - Bruno Maçães
 
@@ -66,7 +66,7 @@ Two Gentlemen of Verona - William Shakespeare
 
 The Italian - Ann Radcliffe
 
-King Lear - William Shakespearex
+King Lear - William Shakespeare
 
 The Eighth Day of Creation: Makers of the Revolution in Biology - Horace Freeland Judson
 
@@ -78,7 +78,7 @@ A Casino Odyssey in Cyberspace - Roger Williams
 
 The Metamorphosis of Prime Intellect - Roger Williams
 
-Frankenstein: Annotated for Scientists, Engineers, and Creaters of All Kinds (1818) - Mary Shelley
+Frankenstein: Annotated for Scientists, Engineers, and Creators of All Kinds (1818) - Mary Shelley
 
 She Stoops to Conquer - Oliver Goldsmith
 
