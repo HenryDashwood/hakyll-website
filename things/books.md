@@ -2,6 +2,12 @@
 
 This list includes books, plays, and book-length essays or papers that I have read, in roughly reverse chronological order. My memory gets fuzzy the further back we go.
 
+## 2022
+
+Planet Funny - Ken Jennings
+
+The Audacity to Win - David Plouffe
+
 ## 2021
 
 Persuasion - Jane Austen
