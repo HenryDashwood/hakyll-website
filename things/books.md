@@ -4,6 +4,10 @@ This list includes books, plays, and book-length essays or papers that I have re
 
 ## 2022
 
+The English Novel - Timothy Spurgin
+
+Richard III - William Shakespeare
+
 Planet Funny - Ken Jennings
 
 The Audacity to Win - David Plouffe
