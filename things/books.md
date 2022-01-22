@@ -4,6 +4,14 @@ This list includes books, plays, and book-length essays or papers that I have re
 
 ## 2022
 
+Titus Andronicus - William Shakespeare
+
+Mrs Dalloway - Virginia Woolf
+
+Macbeth - William Shakespeare
+
+Eloquent Javascript - Marijn Haverbeke
+
 The English Novel - Timothy Spurgin
 
 Richard III - William Shakespeare
