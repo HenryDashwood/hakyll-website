@@ -97,7 +97,7 @@ More modern formats make use of the probablilty certain bases appear at certain 
 
 Used in the 1980s by ... In FASTA format sequences of nucleatoides are represented by single letters. The first line of a FASTA file begins with a `>` or less commonly a `;`. Below is the first 5 lines of an example FASTA file.
 
-```
+```text
 >NM_002299.4 Homo sapiens lactase (LCT), mRNA
 GAAAATGGAGCTGTCTTGGCATGTAGTCTTTATTGCCCTGCTAAGTTTTTCATGCTGGGG
 GTCAGACTGGGAGTCTGATAGAAATTTCATTTCCACCGCTGGTCCTCTAACCAATGACTT

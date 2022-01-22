@@ -137,3 +137,23 @@ td {
   border-style: solid;
   border-collapse: collapse;
 }
+
+.blog-image {
+  text-align: center;
+}
+
+.blog-image img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.sourceCode {
+  background-color: transparent;
+  font-family: monospace;
+}
+
+.hljs {
+  background-color: transparent;
+}
