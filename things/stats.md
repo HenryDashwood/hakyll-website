@@ -37,12 +37,3 @@ The ratio of the SS (between SS divided by within SS) results is known as the F-
 ## Regression
 
 ## Noise reduction
-
-<div class="blog-image">
-![](https://henry-dashwood-public-assets.s3.eu-west-2.amazonaws.com/post-imgs/politics/negative-income-tax.svg)
-</div>
-
-```python
-def something()
-    print("hello")
-```
