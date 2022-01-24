@@ -26,6 +26,24 @@ In the absence of meaningful planning reform, the government has a habit of "hel
 
 Housing Benefit is another very expensive form of welfare that should be replaced with direct cash transfers to the poorest people in society. Then they could choose whether they want to stay where they are or move to somewhere cheaper where their money would go further.
 
+### Get rid of affordable housing requirements
+
+Price controls are always bad. Affordable housing requirements are effectively a price control on a portion of a housing development.
+
+In a market without price controls, supply goes up as the price up while demand falls. The point at which the two lines intersect is the equilibrium and determines the price of the good and the quantity of it that will be supplied.
+
+When transactions of the good take place at this equilibrium price there will be consumers who would have still paid if the price was higher and producers who would have still supplied the good if the price was lower. You can see this in the figure. Regions $$A + D$$ represent the consumer surplus and regions $$B + C + E$$ represent the producer surplus.
+
+Things get worse when we introduce price controls. At the lower price, $$Price_{ceiling}$$, the developer reduces the supply. The surplus represented by regions $$D$$ and $$E$$ disappears.
+
+You might point out that the consumers more than make that up because of the region $$B$$ switching from being producer surplus to being consumer surplus. And it's true that if you do manage to buy the same good at an artificially low price you have done well. But notice the gap between supply and demand at $$Quantity_{ceiling}$$. We've now created a shortage. There will be a lucky few who are living comfortably in their cheap home. But for everyone else, it doesn't that that homes are nominally cheap because there aren't any for them to move into. This is why in places with rent control like Stockholm you get long queues of people waiting for a cheap apartment to become available. It would be much better if developers could just build as much as the market demands.
+
+<div class="blog-image">
+![](https://henry-dashwood-public-assets.s3.eu-west-2.amazonaws.com/post-imgs/politics/price-controls.svg)
+</div>
+
+There can be negative externalities caused by developments and ideally, something like a [section 106 agreement](https://www.kslaw.co.uk/site/library/kslaw_legal_news/what-is-a-section-106) could be used to offset this damage. But it's worth noting that most of the taxable value will come from the general tax due from the developer, and in the long run from the incomes of the people who live in the development.
+
 ### Easier change of usages
 
 People are always complaining about declining high streets. Sometimes people propose restricting or taxing online shopping in some form. I think that would be bad. Online shopping is good. That's why people do it. If you want to make high streets better it should be possible for more people to live and work along and close to them. The future of the high street is fewer shops and more places services and more socialising.
@@ -62,7 +80,13 @@ Unfortunately, politicians put lots of things into lower VAT brackets. This is b
 
 ### Full expensing
 
+Tax systems should not discourage investment. This is why it is good when businesses can offset their investments against their tax bills. The UK tax system discourages some forms of investment more than others. It is easier to offset investments in offices for instance than it is for investments in heavy machinery or factories. The government should stop discriminating between different types of investment and let businesses do more it. The recent "super-deduction" goes some way towards this but is currently a temporary measure.
+
 ### Replace council tax with a land tax
+
+Council tax bands haven't been updated for ages which means the amount people are paying is based on what their house was worth in the 90s, not what it is worth now. This is unfair on council tax payers. It also distorts where councils will approve new homes or invest in new infrastructure.
+
+But the more serious problem with council tax is that it is a tax on the total value of the property instead of just the value of the land. So if you invest in making the property bigger, better, or more productive you get hit with a higher tax bill. A land tax would incentivise people to make the most of our limited supply of land because the more valuable the property relative to the land it sits on, the money more the owner will have after they have paid their tax.
 
 ## Environmentalism
 
@@ -76,7 +100,9 @@ A carbon tax could replace lots of taxes that create red tape and makes the worl
 
 ### Road Pricing
 
-### Invest in the railways
+Currently, we run our road network like a club where you have to pay whether you use it or not (general taxation). Then if you want to use it you pay an entrance fee (in the form of vehicle excise duty) but once you are inside the drinks are free. Unsurprisingly, things get messy. Compare this to the rail network where you pay per journey (the government also subsidises you, but directionally this is true). In France, you are charged every time you use the motorway. In London, there is a boundary charge for driving into the centre of the city. We should move towards a comprehensive system of per-mile road pricing. This could be enforced by a network of cameras to read number plates, a GPS device in each car, or both. The price could fluctuate throughout the day in order to manage demand. Fuel duty approximates road pricing but isn't as good. It costs the same whether you are driving in a very congested area or deserted road. It is also going to disappear as electric cars take over.
+
+### Infrastructure
 
 #### Electrification
 
@@ -89,6 +115,8 @@ A carbon tax could replace lots of taxes that create red tape and makes the worl
 #### Leeds Tram
 
 ### Felixstowe
+
+### R&D and Industrial Policy
 
 ## Immigration
 
