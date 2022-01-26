@@ -4,6 +4,8 @@ This list includes books, plays, and book-length essays or papers that I have re
 
 ## 2022
 
+Parisians - Graham Robb
+
 Titus Andronicus - William Shakespeare
 
 Mrs Dalloway - Virginia Woolf
