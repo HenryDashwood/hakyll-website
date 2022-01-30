@@ -6,6 +6,8 @@ My attempt to summarise the current state of my political opinions on the issues
 
 The most important issue in politics is housing. We don't build enough, especially in places with well-paid jobs. This means people spend massive percentages of their income on rent. That means they can't spend as much on other things or save to buy a place of their own. It might be a decent system if you are a landlord who inherited a property or bought it years ago when it was cheaper. However, it's probably still bad for you because the growth of the economy is massively constrained by people not being able to move to places where they would be productive.
 
+![](https://henry-dashwood-public-assets.s3.eu-west-2.amazonaws.com/post-imgs/politics/wages-vs-house-prices.svg)
+
 ### Street Votes
 
 Lots of my friends support a policy called "street votes". The idea is that homeowners along a street or block could vote to give themselves collective planning permission to redevelop their street. This might mean they all have permission to add two floors to their two-story houses, or that a developer can turn their detached houses into a terrace, a mansion block, or something else. The existing residents might then have one house that's twice as big, or a two-story flat on top of another flat that they can let out, or maybe nothing will have changed on their particular bit of the street except that they are now much richer because they have the planning permission to rebuilt or extend if they so wish. This way we could double the density of many suburban, but the existing residents wouldn't mind because they would still be wealthier.
