@@ -6,7 +6,9 @@ My attempt to summarise the current state of my political opinions on the issues
 
 The most important issue in politics is housing. We don't build enough, especially in places with well-paid jobs. This means people spend massive percentages of their income on rent. That means they can't spend as much on other things or save to buy a place of their own. It might be a decent system if you are a landlord who inherited a property or bought it years ago when it was cheaper. However, it's probably still bad for you because the growth of the economy is massively constrained by people not being able to move to places where they would be productive.
 
+<div class="blog-image">
 ![](https://henry-dashwood-public-assets.s3.eu-west-2.amazonaws.com/post-imgs/politics/wages-vs-house-prices.svg)
+</div>
 
 ### Street Votes
 

@@ -4,6 +4,10 @@ This list includes books, plays, and book-length essays or papers that I have re
 
 ## 2022
 
+Montaillou - Emmanuel Le Roy Ladurie
+
+Data Science from Scratch - Joel Grus
+
 Parisians - Graham Robb
 
 Titus Andronicus - William Shakespeare
