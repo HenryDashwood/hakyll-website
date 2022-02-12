@@ -9,6 +9,7 @@
 **/*.jpg
 **/*.JPG
 **/*.png
+**/*.svg
 **/*.csv
 **/*.xml
 **/*.json

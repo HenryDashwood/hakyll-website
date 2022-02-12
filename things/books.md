@@ -4,7 +4,9 @@ This list includes books, plays, and book-length essays or papers that I have re
 
 ## 2022
 
-Montaillou - Emmanuel Le Roy Ladurie
+Tories: Fighting for the King in America's First Civil War - Thomas B. Allen
+
+Montaillou: Cathars and Catholics in French Village 1294-1324 - Emmanuel Le Roy Ladurie
 
 Data Science from Scratch - Joel Grus
 
