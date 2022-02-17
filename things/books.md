@@ -4,13 +4,15 @@ This list includes books, plays, and book-length essays or papers that I have re
 
 ## 2022
 
+Statistical Rethinking - Richard McElreath
+
 Tories: Fighting for the King in America's First Civil War - Thomas B. Allen
 
 Montaillou: Cathars and Catholics in French Village 1294-1324 - Emmanuel Le Roy Ladurie
 
 Data Science from Scratch - Joel Grus
 
-Parisians - Graham Robb
+Parisians: An Adventure History of Paris - Graham Robb
 
 Titus Andronicus - William Shakespeare
 
@@ -24,7 +26,7 @@ The English Novel - Timothy Spurgin
 
 Richard III - William Shakespeare
 
-Planet Funny - Ken Jennings
+Planet Funny: How Comedy Took Over Our Culture - Ken Jennings
 
 The Audacity to Win - David Plouffe
 
