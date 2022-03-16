@@ -100,8 +100,7 @@ $$
 <div class="blog-image">
 ![](https://henry-dashwood-public-assets.s3.eu-west-2.amazonaws.com/post-imgs/2022-02-05-sr-bayeian-stats/prob_dense_plot.gif)
 </div>
-
-You could give of course do this analysis at once by throwing all the data at it in one go. But in Baysian data analysis there is an implied series of updates.
+Every updated set of plausibilities becomes the initial plausibilities for the  next observation. Every conclusion is the starting point for future inference. This updating process works backwards as well as forwards. Given a final set of plausibilities and knowing the final observation $$W$$ it is possible to mathematically divide out the observation to infer the previous plausibility curve. So the data could be presented to your model in any order, or all at once even. In most cases you will present the data all at once for convenience. This represents an abbreviation of an iterated learning process.
 
 Some points about Baysian Inference:
 
@@ -115,3 +114,21 @@ What proportion of the Earth is covered by water? We aren't going to visit liter
 $$
 W, W, W, L, W, W, W, W, W, L
 $$
+The counts of “water” $$W$$ and “land’ $$L$$ are distributed binomially, with probability p of “water” on each toss.
+$$
+Pr(W,L|p) = \frac {(W + L)!} {W!L!} p^W(1 − p)^L
+$$
+
+
+A short way of writing our model
+
+W ~ Binomial(N, p)
+
+Where N = W + L
+
+p ~ Uniform(0,1)
+
+
+
+
+

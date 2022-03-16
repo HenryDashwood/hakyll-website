@@ -4,6 +4,16 @@ This list includes books, plays, and book-length essays or papers that I have re
 
 ## 2022
 
+Human Compatible: AI and the Problem of Control - Stuart Russell
+
+Piers Plowman - William Langland
+
+Intelligent Credit Scoring: Building and Implementing Better Credit Risk Scorecards - Naeem Siddiqi
+
+Brave New World - Aldous Huxley
+
+The Book of Why: The New Science of Cause and Effect - Judea Pearl, Dana Mackenzie
+
 Statistical Rethinking - Richard McElreath
 
 Tories: Fighting for the King in America's First Civil War - Thomas B. Allen

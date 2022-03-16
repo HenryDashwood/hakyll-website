@@ -24,6 +24,8 @@ For a sense of what could be done if golf clubs were allowed to sell up develope
 
 Stamp duty stops old people from downsizing to somewhere they would find more manageable. That, in turn, means large houses that people with growing families would like to move into are unavailable. We should get rid of it.
 
+### Right to sublet
+
 ### Stop pumping money into the housing market
 
 In the absence of meaningful planning reform, the government has a habit of "helping people get onto the housing ladder" by giving them money to buy houses in the case of Help to Buy or selling them a council home for less than it is worth. This might be great for a small but politically influential group who take advantage of the scheme, but it drives up the price of houses for everyone else. Scrap them.
@@ -107,6 +109,8 @@ A carbon tax could replace lots of taxes that create red tape and makes the worl
 Currently, we run our road network like a club where you have to pay whether you use it or not (general taxation). Then if you want to use it you pay an entrance fee (in the form of vehicle excise duty) but once you are inside the drinks are free. Unsurprisingly, things get messy. Compare this to the rail network where you pay per journey (the government also subsidises you, but directionally this is true). In France, you are charged every time you use the motorway. In London, there is a boundary charge for driving into the centre of the city. We should move towards a comprehensive system of per-mile road pricing. This could be enforced by a network of cameras to read number plates, a GPS device in each car, or both. The price could fluctuate throughout the day in order to manage demand. Fuel duty approximates road pricing but isn't as good. It costs the same whether you are driving in a very congested area or deserted road. It is also going to disappear as electric cars take over.
 
 ### Infrastructure
+
+#### Reservoirs
 
 #### Electrification
 
