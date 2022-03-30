@@ -4,6 +4,10 @@ This list includes books, plays, and book-length essays or papers that I have re
 
 ## 2022
 
+The Adventures of Roderick Random - Tobias Smollett
+
+The Debatable Land: The Lost World Between Scotland and England - Graham Robb
+
 Human Compatible: AI and the Problem of Control - Stuart Russell
 
 Piers Plowman - William Langland
