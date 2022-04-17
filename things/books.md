@@ -4,6 +4,16 @@ This list includes books, plays, and book-length essays or papers that I have re
 
 ## 2022
 
+Two Hundred Years of Muddling Through - Duncan Weldon
+
+Intelligence: All That Matters - Stuart Ritchie
+
+Love's Labour's Lost - William Shakespeare
+
+The Two Gentlemen of Verona - William Shakespeare
+
+1867 & all that - Christopher Dummitt
+
 The Adventures of Roderick Random - Tobias Smollett
 
 The Debatable Land: The Lost World Between Scotland and England - Graham Robb
@@ -104,7 +114,7 @@ Zofloya - Charlotte Dacre
 
 Lady Windermere’s Fan - Oscar Wilde
 
-Two Gentlemen of Verona - William Shakespeare
+The Two Gentlemen of Verona - William Shakespeare
 
 The Italian - Ann Radcliffe
 

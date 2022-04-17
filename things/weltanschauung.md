@@ -59,6 +59,8 @@ Sometimes adverts are about informing people about the existance of a product. B
 
 Something is rotten in the state of... Denmark, where the essay begins with a discussion of the TV show Borgen and the class of people it was made by and for. But then the essay takes us back to the 19th century, the rise of the administrative middle class, and the tension in satire that placates the court. A society where the satirists have the same aspirations as the satired. In the present we obsess over unserious things but, unlike a century and half ago, we lack the dynamism and growth for this to be sustainable.
 
+[The Generation X Origin Story](https://spottedtoad.wordpress.com/2019/10/12/the-generation-x-origin-story/)
+
 ## History
 
 [All the East is Moving](https://www.firstthings.com/article/2016/08/all-the-east-is-moving) - Tom Holland
