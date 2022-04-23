@@ -4,6 +4,8 @@ This list includes books, plays, and book-length essays or papers that I have re
 
 ## 2022
 
+The Importance of Being Earnest - Oscar Wilde
+
 Science Fictions: Exposing Fraud, Bias, Negligence and Hype in Science - Stuart Ritchie
 
 The Royalist Revolution: Monarchy and the American Founding - Eric Nelson
