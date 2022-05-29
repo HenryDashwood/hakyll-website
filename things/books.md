@@ -4,6 +4,18 @@ This list includes books, plays, and book-length essays or papers that I have re
 
 ## 2022
 
+Gaston de Blondeville - Ann Radcliffe
+
+London Clay: Journeys in the Deep City - Tom Chivers
+
+The Northumbrians: North-East England and Its People - Dan Jackson
+
+King John - William Shakespeare
+
+Camilla - Frances Burney
+
+A Midsummer Night's Dream - William Shakespeare
+
 The Importance of Being Earnest - Oscar Wilde
 
 Science Fictions: Exposing Fraud, Bias, Negligence and Hype in Science - Stuart Ritchie
