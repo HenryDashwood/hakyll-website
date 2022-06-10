@@ -4,6 +4,8 @@ This list includes books, plays, and book-length essays or papers that I have re
 
 ## 2022
 
+Timon of Athens - William Shakespeare
+
 Shutdown: How Covid Shook the World's Economy - Adam Tooze
 
 The Laws of Trading: A Trader's Guide to Better Decision-Making for Everyone - Agustin Lebron
