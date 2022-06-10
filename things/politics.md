@@ -84,6 +84,8 @@ VAT is a great tax. It raises lots of money and doesn't distort people's incenti
 
 Unfortunately, politicians put lots of things into lower VAT brackets. This is bad because it distorts behaviour. We should remove these lower ratings and have a flat 20% VAT on everything.
 
+VAT is also better than similar sounding US sales taxes. The former creates a natural audit trail because businesses are incentivised to report their transactions so they are not overcharged. See [here](https://www.spectator.co.uk/article/michael-gove-s-plan-to-scrap-vat-is-a-big-mistake) for more details. US sales taxes lack this so can accumulate and bias the economy in favour of large companies.
+
 ### Full expensing
 
 Tax systems should not discourage investment. This is why it is good when businesses can offset their investments against their tax bills. The UK tax system discourages some forms of investment more than others. It is easier to offset investments in offices for instance than it is for investments in heavy machinery or factories. The government should stop discriminating between different types of investment and let businesses do more it. The recent "super-deduction" goes some way towards this but is currently a temporary measure.
