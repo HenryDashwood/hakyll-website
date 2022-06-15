@@ -16,6 +16,12 @@ I think people oppose a lot of things because they don't like change. Yet there 
 
 Stephen Davis is someone I met just as I was forming a wordview. I think this talk is a good distillation of his thought. In a world of such huge technological, economic, and social change, what is civilisation? What is going to change? What will and should we conserve?
 
+[How to Kill a City](https://www.economist.com/blighty/2013/05/31/how-to-kill-a-city)
+
+[The Plot Against Mercia](https://unherd.com/2020/09/the-plot-against-mercia/)
+
+Lots has been written about the awfulness of planners. I think the story of what happened to Birmingham and the midlands after WW2 is key understanding how descructive policies enacted in the name of equality can be. Planning may be necessary but those who do it should study these past mistakes.
+
 ## Housing
 
 [An apology for the builder](https://quod.lib.umich.edu/e/eebo/A30880.0001.001?rgn=main;view=fulltext) - Nicholas Barbon

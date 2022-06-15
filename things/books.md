@@ -4,6 +4,8 @@ This list includes books, plays, and book-length essays or papers that I have re
 
 ## 2022
 
+Romeo and Juliet - William Shakespeare
+
 Timon of Athens - William Shakespeare
 
 Shutdown: How Covid Shook the World's Economy - Adam Tooze
