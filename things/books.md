@@ -4,6 +4,8 @@ This list includes books, plays, and book-length essays or papers that I have re
 
 ## 2022
 
+Capitalism Without Capital - Johnathan Haskel & Stian Westlake
+
 Romeo and Juliet - William Shakespeare
 
 Timon of Athens - William Shakespeare
