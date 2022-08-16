@@ -4,7 +4,29 @@ This list includes books, plays, and book-length essays or papers that I have re
 
 ## 2022
 
-Capitalism Without Capital - Johnathan Haskel & Stian Westlake
+Troilus and Cressida - William Shakespeare
+
+The Rise and Fall of the British Nation - David Edgerton
+
+The Merchant of Venice - William Shakespeare
+
+The Bourgeois Virtues: Ethics for an Age of Commerce - Deirdre N. McCloskey
+
+Confessions of an English Opium-Eater - Thomas De Quincey
+
+Conquered: The Last Children of Anglo-Saxon England - Eleanor Parker
+
+Melmoth the Wanderer - Charles Robert Maturin
+
+Restarting the Future: How to Fix the Intangible Economy - Johnathan Haskel & Stian Westlake
+
+Richard II - William Shakespeare
+
+Lifespan: Why We Age and Why We Don’t Have To - David A. Sinclair, Matthew D. LaPlante
+
+Arts and Minds: How the Royal Society of Arts Changed a Nation - Anton Howes
+
+Capitalism Without Capital: The Rise of the Intangible Economy - Johnathan Haskel & Stian Westlake
 
 Romeo and Juliet - William Shakespeare
 

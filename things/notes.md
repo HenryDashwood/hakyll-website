@@ -72,6 +72,14 @@ Various Linux and/or MacOS things that I find myself forgetting how to do a lot
 | :--------------: | :---------: | :---------: | :--------------------------------------------------------------------------------------------------------: |
 | Go to first cell | `Ctrl+home` | `Ctrl+home` | On a MacOS laptop this means `Ctrl+fn+left arrow`. On a desktop keyboard there are home up and down arrows |
 
+## Visual Studio Code
+
+|    Shortcut     |                   Description                    |
+| :-------------: | :----------------------------------------------: |
+| shift+alt+arrow |       Duplicate the line the cursor is on        |
+|  cmd+alt+arrow  | New cursor on line below or above current cursor |
+|   cmd+shift+L   |  Cursors on every occurance of highlighted text  |
+
 ## Python
 
 ### F Strings
