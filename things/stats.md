@@ -10,11 +10,64 @@ $$
 
 ### Median
 
+The median is the middle value in an ordered set of data. If there are an even number of values it is the average of the middle 2 values in the set.
+
 ### Mode
+
+The mode is the most common value (or values) in a set of data.
+
+### Dispersion
+
+Dispersion refers to measures of how spread out our data is. The simplest measure of dispersion is the range which is the difference between the largest and smallest elements in a set of data.
+
+### Variance
+
+A more sophisticated measure of dispersion is the variance. You can think of this as the average squared deviation from the mean. However we modify the sum by dividing by $n-1$ because when dealing with a sample from a larger population, $\bar{x}$ is only an estimate of the actual mean. On average this means $x_i - \bar{x}$ is an underestimate of the true deviation which is why we divide by a smaller denominator.
+
+[QUESTION: Why only subtract 1?]
+
+[QUESTION: What if you actually do have the entire population?]
+
+$$
+S^2 = \frac {\sum {(x_i - \bar{x})}^2} {n - 1}
+$$
+
+$S^2$ = sample variance\
+$x_i$ = value of the one observation\
+$\bar{x}$ = mean value of all observations\
+$n$ = number of observations
 
 ### Standard Deviation
 
+The standard deviation is the square root of the variance which means it is in the same units as the range of the dataset.
+
+$$
+S = \sqrt {\frac {\sum {(x_i - \bar{x})}^2} {n - 1}}
+$$
+
+$S^2$ = sample variance\
+$x_i$ = value of the one observation\
+$\bar{x}$ = mean value of all observations\
+$n$ = number of observations
+
+### Interquartile Range
+
+The interquartile range is the difference between the 75th and 25th percentile value. This is a simple measure but useful as it is not affected by outliers like the range and standard deviation are.
+
 ### Covariance
+
+Whereas variance measures how a single variable deviates from its mean, covariance measures how two variables vary in tandem from their means.
+
+$$
+cov_{x,y} = \frac {\sum {(x_i - \bar{x})(y_i - \bar{y})}} {N - 1}
+$$
+
+$cov_{x,y}$ = covariance between variable x and y\
+$x_i$ = data value of x\
+$y_i$ = data value of y\
+$\bar{x}$ = mean of x\
+$\bar{y}$ = mean of y\
+$N$ = number of data values
 
 ### Normal Distribution
 
@@ -114,11 +167,12 @@ What proportion of the Earth is covered by water? We aren't going to visit liter
 $$
 W, W, W, L, W, W, W, W, W, L
 $$
+
 The counts of “water” $$W$$ and “land’ $$L$$ are distributed binomially, with probability p of “water” on each toss.
+
 $$
 Pr(W,L|p) = \frac {(W + L)!} {W!L!} p^W(1 − p)^L
 $$
-
 
 A short way of writing our model
 
@@ -127,8 +181,3 @@ W ~ Binomial(N, p)
 Where N = W + L
 
 p ~ Uniform(0,1)
-
-
-
-
-

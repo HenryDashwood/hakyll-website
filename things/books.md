@@ -4,6 +4,12 @@ This list includes books, plays, and book-length essays or papers that I have re
 
 ## 2022
 
+Bourgeois Dignity: Why Economics Can't Explain the Modern World - Deirdre N. McCloskey
+
+In a Glass Darkly - Joseph Sheridan Le Fanu
+
+How to Be a Founder: How Entrepreneurs Can Identify, Fund and Launch Their Best Ideas - Alice Bentinck & Matt Clifford
+
 Troilus and Cressida - William Shakespeare
 
 The Rise and Fall of the British Nation - David Edgerton
