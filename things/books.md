@@ -4,6 +4,12 @@ This list includes books, plays, and book-length essays or papers that I have re
 
 ## 2022
 
+Winters in the World: A Journey through the Anglo-Saxon Year - Eleanor Parker
+
+Mozart: His Life and Music - Robert Greenberg
+
+Dracula - Bram Stoker
+
 Bourgeois Dignity: Why Economics Can't Explain the Modern World - Deirdre N. McCloskey
 
 In a Glass Darkly - Joseph Sheridan Le Fanu

@@ -36,6 +36,26 @@ Byrne Hobart's analysis of whatever takes interest. Generally has a finance focu
 
 Matthew Clifford co-founded Entrepreneur First and writes a weekley newsletter. It covers tech, geopolitcs, and anything published that week which takes his interest. He also has a [podcast](https://podcasts.apple.com/us/podcast/thoughts-in-between-exploring-how-technology-collides/id1547838601).
 
+### [Bits About Money](https://bam.kalzumeus.com/archive/rss/)
+
+Patrick Mackenzie explains how the financial system works
+
+### [Ian Visits](https://www.ianvisits.co.uk/)
+
+Ian Mansfield writes about London, its history, its events, and its infrastructure. A fanstasic resource.
+
+### [Consumer Surplus](https://sambowman.substack.com/)
+
+Utility maximising posts from Sam Bowman
+
+### [Epistemink](https://www.epistem.ink/)
+
+Interesting but hard to say what it's "about"
+
+### [Baldwin](https://bensouthwood.substack.com/)
+
+thoughts on urbanism and assorted other things
+
 ## History and the Arts
 
 ### [A Clerk of Oxford](https://aclerkofoxford.blogspot.com/)
@@ -70,6 +90,14 @@ Tom Holland and Dominic Sandbrook discuss a historical topic, sometimes with gue
 
 A young newsletter from the pseudonymous Twitter account [Ancient Earthling](https://twitter.com/Dust_Foot), topics have included investigations of Shakespeare's sonnets and portraiture, and the question of why certain objects and environments are beautiful.
 
+### [Terra Nullius](https://neddonovan.substack.com/)
+
+Ned Donovan shines a light into various historical and geographical curiosities
+
+### [Sagas from the Sea](https://sagasfromthesea.blog/)
+
+Occasional pieces about all things Anglo-Saxon, Norse and Icelandic
+
 ## Science
 
 ### [Quanta](https://www.quantamagazine.org/)
@@ -103,6 +131,14 @@ A podcast from Andreessen Horowitz. They discuss new papers, companies working i
 ### [Razib Khan](https://www.razib.com/bio/wordpress/)
 
 This is one that could go in several different sections, with several different links. Razib is a genetisist with an interest in history and social science. He writes a lot about how genetics have illuminated various areas or archeology, and much more. He has several blogs and podcasts and has also written for various other publications. He is also on Clubhouse, a lot.
+
+### [Science Fictions](https://stuartritchie.substack.com/)
+
+Analysis and critiques of science as it is currently practiced from Stuart Ritchie
+
+### [Scientific Discovery](https://salonium.substack.com/)
+
+Summaries of various topical things in science from Saloni Dattani
 
 ## Technology
 
@@ -155,3 +191,31 @@ Adam Tooze has a newsletter now. It covers whatever is interesting him at that m
 ### [In the Sight of the Unwise](https://inthesightoftheunwise.substack.com/)
 
 Analysis whether ecclesiastical or political is always insightful.
+
+### [Mugwumpery](https://mugwump.substack.com/)
+
+"Someone plausible"
+
+### [Normielisation](https://normielisation.substack.com/)
+
+Britains sharpest political pundit
+
+### [Value Added](https://duncanweldon.substack.com/)
+
+Good posts on the British economy from Duncan Weldon
+
+### [Notes on Growth](https://samdumitriu.substack.com/)
+
+Occasion posts on british policy from Sam Dumitriu
+
+### [The Dominion](https://thedominion.substack.com/)
+
+Most focused on Canadian politics which actually makes it very relevant to Britain
+
+### [Ziggurat](https://ziggurat.substack.com/)
+
+John Myers explores ways to improve the world despite (and ideally because of) the political incentives people face
+
+### [Full Stack Economics](https://www.fullstackeconomics.com/)
+
+Some of the best explanations of various ideas swirling around the econ internet sphere

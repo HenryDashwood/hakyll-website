@@ -24,6 +24,8 @@ For a sense of what could be done if golf clubs were allowed to sell up develope
 
 Stamp duty stops old people from downsizing to somewhere they would find more manageable. That, in turn, means large houses that people with growing families would like to move into are unavailable. We should get rid of it.
 
+[More here](https://ifs.org.uk/articles/stamp-duty-economic-nonsense)
+
 ### Right to sublet
 
 ### Stop pumping money into the housing market

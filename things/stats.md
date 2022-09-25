@@ -69,6 +69,17 @@ $\bar{x}$ = mean of x\
 $\bar{y}$ = mean of y\
 $N$ = number of data values
 
+A "large" positive covariance means that $x$ tends to be large when $y$ is large and small when y is small. A “large” negative covariance means the opposite — that $x$ tends to be small when $y$ is large and vice versa. A covariance close to zero means that no such relationship exists.
+
+Covariance can be hard to interpret because:
+
+- Its units are the product of the inputs' units which can be hard to make sense of.
+- If each every value of $x$ was doubled (with $y$ staying the same) the covariance would be twice as large. But the variables would be just as interrelated. So it’s hard to say what counts as a "large" covariance.
+
+### Correlation
+
+Correlation is used more than covariance. It divides out the standard deviations of both variables:
+
 ### Normal Distribution
 
 ## Inferential Statistics
@@ -84,8 +95,6 @@ When looking at data, you might want to know if two groups are different. ANOVA 
 The ratio of the SS (between SS divided by within SS) results is known as the F-statistic
 
 ### Variance ratio (F) test
-
-## Correlation
 
 ## Regression
 
