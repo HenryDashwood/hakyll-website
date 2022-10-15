@@ -79,6 +79,8 @@ Various Linux and/or MacOS things that I find myself forgetting how to do a lot
 | shift+alt+arrow |       Duplicate the line the cursor is on        |
 |  cmd+alt+arrow  | New cursor on line below or above current cursor |
 |   cmd+shift+L   |  Cursors on every occurance of highlighted text  |
+|       cmd+g     | Move cursor to next occurance of highlighted text|
+|       cmd+d     | Highlight next occurance of highlighted text as well|
 
 ## Python
 

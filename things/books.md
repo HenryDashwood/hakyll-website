@@ -4,6 +4,8 @@ This list includes books, plays, and book-length essays or papers that I have re
 
 ## 2022
 
+Bourgeois Equality: How Ideas, Not Capital or Institutions, Enriched the World - Deirdre N. McCloskey
+
 Winters in the World: A Journey through the Anglo-Saxon Year - Eleanor Parker
 
 Mozart: His Life and Music - Robert Greenberg

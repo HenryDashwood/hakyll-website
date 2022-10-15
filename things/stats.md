@@ -78,7 +78,19 @@ Covariance can be hard to interpret because:
 
 ### Correlation
 
-Correlation is used more than covariance. It divides out the standard deviations of both variables:
+Pearson's correlation coefficient is the covariance of the two variables divided by the product of their standard deviations:
+
+$$
+\rho(X,Y) = \frac {cov(X,Y)}{\sigma(X)\sigma(Y)}
+$$
+
+$cov$ = the covariance\
+$\sigma(X)$ = the standard deviation of X\
+$\sigma(Y)$ = the standard deviation of Y\
+
+Correlation shows us relationships in which knowing how $x_i$ compares to the mean of $x$ gives us information about how $y_i$ compares to the mean of $y$. Other types of relationship may not show up. It also doesn't tell us how large the relationship is.
+
+#### Simpson's Paradox
 
 ### Normal Distribution
 

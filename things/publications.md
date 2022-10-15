@@ -219,3 +219,7 @@ John Myers explores ways to improve the world despite (and ideally because of) t
 ### [Full Stack Economics](https://www.fullstackeconomics.com/)
 
 Some of the best explanations of various ideas swirling around the econ internet sphere
+
+### [The War on Prices](https://ryanbourne.substack.com/)
+
+Ryan Bourne writes sensible stuff about politics and economics
