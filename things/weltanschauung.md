@@ -102,3 +102,7 @@ My mother is always brought to tears by the end of Winnie the Pooh. Goodbye Mr C
 [All This Useless Beauty](https://wayofthedodo.substack.com/p/all-this-useless-beauty)
 
 Why are some things beautiful? Why should the peacock's tail be of interest to us. Why are we not repulsed by the sight of a sand dune? Across the natural world, creation seems to have some consistent ideas for what is good and what is bad.
+
+[Literary Metaphors, Deepities, and Motte-and-Baileys](https://benmgarfinkel.blog/2017/09/16/metaphors-deepities-and-motte-and-baileys/)
+
+Precise language is useful. A question raised by this essay is to what extent fiction and poetry confuse as much as they enlighten.

@@ -4,6 +4,16 @@ This list includes books, plays, and book-length essays or papers that I have re
 
 ## 2022
 
+The Chamber Music of Mozart - Robert Greenberg
+
+A Vindication of the Rights of Woman: with Strictures on Political and Moral Subjects - Mary Wollstonecraft
+
+Complexity: A Guided Tour - Melanie Mitchell
+
+Formation: The Making of Nigeria from Jihad to Amalgamation - Fola Fagbule & Feyi Fawehinmi
+
+A Brief History of the Celts - Peter Berresford Ellis
+
 Bourgeois Equality: How Ideas, Not Capital or Institutions, Enriched the World - Deirdre N. McCloskey
 
 Winters in the World: A Journey through the Anglo-Saxon Year - Eleanor Parker
