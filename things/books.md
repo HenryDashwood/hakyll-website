@@ -4,6 +4,30 @@ This list includes books, plays, and book-length essays or papers that I have re
 
 ## 2022
 
+Moneyball: The Art of Winning an Unfair Game - Michael Lewis
+
+Get Together: How to Build a Community with Your People - Bailey Richardson & Kevin Huynh & Kai Elmer Sotto
+
+Rob Roy - Sir Walter Scott
+
+Liar's Poker: Rising Through the Wreckage on Wall Street - Michael Lewis
+
+Richard II - William Shakespeare
+
+A Brief History of Roman Britain - Joan P. Alcock
+
+Super-Infinite: The Transformations of John Donne - Katherine Rundell
+
+Waverley - Sir Walter Scott
+
+The Wages of Destruction: The Making and Breaking of the Nazi Economy - Adam Tooze
+
+The Fall of Númenor - J.R.R. Tolkien
+
+A Brief Guide to Celtic Myths and Legends - Martyn Whittock
+
+Childe Harold's Pilgrimage - George Byron
+
 The Chamber Music of Mozart - Robert Greenberg
 
 A Vindication of the Rights of Woman: with Strictures on Political and Moral Subjects - Mary Wollstonecraft

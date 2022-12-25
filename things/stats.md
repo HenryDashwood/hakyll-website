@@ -88,9 +88,105 @@ $cov$ = the covariance\
 $\sigma(X)$ = the standard deviation of X\
 $\sigma(Y)$ = the standard deviation of Y\
 
-Correlation shows us relationships in which knowing how $x_i$ compares to the mean of $x$ gives us information about how $y_i$ compares to the mean of $y$. Other types of relationship may not show up. It also doesn't tell us how large the relationship is.
+Correlation shows us relationships in which knowing how $x_i$ compares to the mean of $x$ gives us information about how $y_i$ compares to the mean of $y$. Other types of relationship may not show up. It also doesn't tell us how large the relationship is. It is also the case that if $E$ and $F$ are independent if the probability of them both happening is equal to the product of the probability of each one happening.
 
 #### Simpson's Paradox
+
+## Probability
+
+Notationally, $P(E)$ means the probability of the event $E$.
+
+Events $E$ and $F$ are `dependent` if inforamation about whether $E$ happens gives us information about whether $F$ happens or vice versa. Otherwise the two events are independent of each other.
+
+$$ P(E,F) = P(E)P(F) $$
+
+If the two events are not necessarily independent (and the probability of $F$ is not 0) we define probability of $E$ given $F$ as:
+
+$$ P(E|F) = \frac {P(E,F)}{P(F)} $$
+
+This is often written as:
+
+$$ P(E,F) = P(E|F)P(F) $$
+
+When $E$ and $F$ are independent this means:
+
+$$ P(E|F) = P(E) $$
+
+Let's ask _what is the probability "both children are girls" conditional on the event "the older child is a girl"?_
+
+We use the definition of conditional probability and the fact that the event $Both$ and $Girl$ ("both children are girls and the older child is a girl") is the same as the event $Both$.
+
+$$
+\begin{align}
+P(Both|Girl) &= \frac {P(Both, Girl)}{P(Girl)} \notag \\
+&= \frac {P(Both)}{P(Girl)} \notag \\
+&= \frac {1}{2} \notag
+\end{align}
+$$
+
+We can also ask about the probability of the event "both children are girls" conditional on the event "at least one of the children is a girl" ($At\ Least\ One$). Surprisingly, the answer is different from before. If all you know is that at least one of the children is a girl, then it is twice as likely that the family has one boy and one girl than that it has both girls.
+
+$$
+\begin{align}
+P(Both | At\ Least\ One) &= \frac {P(Both, At\ Least\ One)} {P(At\ Least\ One)} \notag \\
+&= \frac {P(Both)} {P(At\ Least\ One)} \notag \\
+&= \frac {1}{3} \notag
+\end{align}
+$$
+
+### Bayes' Theorem
+
+Bayes’s theorem is a way of “reversing” conditional probabilities. If we need to know the probability of some event $E$ conditional on some other event $F$ occurring but we only have information about the probability of $F$ conditional on $E$ occurring, using the definition of conditional probability twice tells us that:
+
+$$
+\begin{align}
+P(E | F) &= \frac {P(E, F)} {P(F)} \notag \\
+&= \frac {P(F | E)P(E)} {P(F)} \notag \\
+\end{align}
+$$
+
+The event $F$ can be split into the two mutually exclusive events "$F$ and $E$" and "$F$ and not $E$". We write $\neg$ for "not".
+
+$$
+\begin{align}
+P(F) &= P(F, E) + P(F, \neg E) \notag \\
+P(E | F) &= \frac {P(F | E)P(E)} {P(F, E)P(E) + P(F, \neg E)P(\neg E)} \notag \\
+\end{align}
+$$
+
+If a disease has a 1 in 10000 chance of occurring ($P(Disease) = 0.0001$) and a test has a 99% chance of giving a positive result when someone has the disease ($P(Positive|Disease) = 0.99$) we would apply Bayes Theorum like so:
+
+$$
+\begin{align}
+P(Disease | Positive) &= \frac {P(Positive | Disease)P(Disease)} {P(Positive | Disease)P(Disease) + P(Positive | \neg Disease)P(\neg Disease)} \notag \\
+&= \frac {0.99 \times 0.0001}{0.99 \times 0.0001 + 0.01 \times 0.9999} \notag \\
+&\approx 0.0098 \notag \\
+&= 0.98\% \notag
+\end{align}
+$$
+
+Note that this assumes people take the test roughly at random. If only people with certain symptoms take the test, we would have to condition on the event "positive result and symptoms" and the number would likely be a lot higher.
+
+We can also view this problem using natural frequencies. In a population of 1 million people you’d expect 100 of them to have the disease, and 99 of those 100 to test positive. On the other hand, you’d expect 999,900 of them not to have the disease, and 9,999 of those to test positive. That means you’d expect only 99 out of 10098 (99 + 9999) positive testers to actually have the disease which is roughly 0.98%.
+
+### Random Variables
+
+A random variable is a variable whose possible values have an associated probability distribution. The expected value of a random variable is the average of its values weighted by their probabilities.
+
+A very simple random variable equals 1 if a coin flip turns up heads and 0 if the flip turns up tails. The variable equals 0 with probability 0.5 and 1 with probability 0.5. It has an expected value of $\frac{1}{2} = (0 * \frac{1}{2} + 1 * \frac{1}{2})$
+
+A more complicated random variable might measure the number of heads you observe when flipping a coin 10 times or a value picked from `range(10)` where each number is equally likely. The associated distribution gives the probabilities that the variable realizes each of its possible values. In this case the variable has a distribution that assigns probability 0.1 to each of the numbers from 0 to 9. Flipping a coin 10 times has an expected value of 5.5. The range(10) variable has an expected value of 4.5.
+
+$$
+E(X) = \sum {X_iP(X_i)}
+$$
+
+$X_i$ = The values that X can take\
+$P(X_i)$ = The probability that X takes the value $X_i$
+
+Random variables can be conditioned on events just as other events can. Going back to the two-child example, if $X$ is the random variable representing the number of girls, $X$ equals 0 with probability $\frac{1}{4}$, 1 with probability $\frac{1}{2}$, and 2 with probability $\frac{1}{4}$. We can define a new random variable $Y$ that gives the number of girls conditional on at least one of the children being a girl. Then $Y$ equals 1 with probability $\frac{2}{3}$ and 2 with probability $\frac{1}{3}$. And a variable $Z$ that's the number of girls conditional on the older child being a girl equals 1 with probability $\frac{1}{2}$ and 2 with probability $\frac{1}{2}$.
+
+### Continuous Distributions
 
 ### Normal Distribution
 
