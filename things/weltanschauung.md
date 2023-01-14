@@ -106,3 +106,7 @@ Why are some things beautiful? Why should the peacock's tail be of interest to u
 [Literary Metaphors, Deepities, and Motte-and-Baileys](https://benmgarfinkel.blog/2017/09/16/metaphors-deepities-and-motte-and-baileys/)
 
 Precise language is useful. A question raised by this essay is to what extent fiction and poetry confuse as much as they enlighten.
+
+[Staring into the abyss as a core life skill](https://www.benkuhn.net/abyss/)
+
+"You got to know when to hold 'em, know when to fold 'em, know when to walk away, and know when to run."

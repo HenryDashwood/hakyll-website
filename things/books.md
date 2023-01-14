@@ -2,6 +2,14 @@
 
 This list includes books, plays, and book-length essays or papers that I have read, in roughly reverse chronological order. My memory gets fuzzy the further back we go.
 
+## 2023
+
+The Big Short: Inside the Doomsday Machine - Michael Lewis
+
+A Brief History of the Anglo-Saxons - Geoffrey Hindley
+
+Don Juan - George Byron
+
 ## 2022
 
 Moneyball: The Art of Winning an Unfair Game - Michael Lewis
